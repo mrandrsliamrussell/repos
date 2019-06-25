@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab06", "lab06\lab06.csproj", "{9BD5CB0B-8167-4486-A93D-6530BA9FB2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab07", "sql with csharp\lab07.csproj", "{B196D190-7439-409D-B59C-BA97E7682F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab08", "WpfApp1\lab08.csproj", "{A6815482-CCE4-4B2A-9731-3D8F25C85C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD5CB0B-8167-4486-A93D-6530BA9FB2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD5CB0B-8167-4486-A93D-6530BA9FB2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD5CB0B-8167-4486-A93D-6530BA9FB2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD5CB0B-8167-4486-A93D-6530BA9FB2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B196D190-7439-409D-B59C-BA97E7682F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B196D190-7439-409D-B59C-BA97E7682F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B196D190-7439-409D-B59C-BA97E7682F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B196D190-7439-409D-B59C-BA97E7682F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6815482-CCE4-4B2A-9731-3D8F25C85C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6815482-CCE4-4B2A-9731-3D8F25C85C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6815482-CCE4-4B2A-9731-3D8F25C85C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6815482-CCE4-4B2A-9731-3D8F25C85C21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA24BB5D-352E-4D2A-A2A6-344DC50B886B}
+	EndGlobalSection
+EndGlobal
