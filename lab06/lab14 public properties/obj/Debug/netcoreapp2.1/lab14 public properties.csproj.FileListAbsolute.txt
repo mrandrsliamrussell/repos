@@ -1,0 +1,10 @@
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\bin\Debug\netcoreapp2.1\lab14 public properties.deps.json
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\bin\Debug\netcoreapp2.1\lab14 public properties.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\bin\Debug\netcoreapp2.1\lab14 public properties.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\bin\Debug\netcoreapp2.1\lab14 public properties.dll
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\bin\Debug\netcoreapp2.1\lab14 public properties.pdb
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.dll
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.pdb

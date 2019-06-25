@@ -27,7 +27,7 @@ namespace WpfApp1
 
         private void Button01_Click(object sender, RoutedEventArgs e)
         {
-            using (var db)
+           // using (var db)
         }
     }
 }
