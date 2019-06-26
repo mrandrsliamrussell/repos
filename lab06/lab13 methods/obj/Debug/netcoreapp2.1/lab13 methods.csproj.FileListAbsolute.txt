@@ -8,3 +8,4 @@ C:\Users\LRussell\source\repos\lab06\lab13 methods\obj\Debug\netcoreapp2.1\lab13
 C:\Users\LRussell\source\repos\lab06\lab13 methods\obj\Debug\netcoreapp2.1\lab13 methods.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab13 methods\obj\Debug\netcoreapp2.1\lab13 methods.dll
 C:\Users\LRussell\source\repos\lab06\lab13 methods\obj\Debug\netcoreapp2.1\lab13 methods.pdb
+C:\Users\LRussell\source\repos\lab06\lab13 methods\obj\Debug\netcoreapp2.1\lab13 methods.csprojAssemblyReference.cache

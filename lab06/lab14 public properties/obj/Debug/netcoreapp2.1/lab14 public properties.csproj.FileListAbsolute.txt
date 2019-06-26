@@ -8,3 +8,4 @@ C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreap
 C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.dll
 C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.pdb
+C:\Users\LRussell\source\repos\lab06\lab14 public properties\obj\Debug\netcoreapp2.1\lab14 public properties.csprojAssemblyReference.cache

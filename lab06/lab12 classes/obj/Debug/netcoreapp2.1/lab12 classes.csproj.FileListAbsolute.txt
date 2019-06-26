@@ -8,3 +8,4 @@ C:\Users\LRussell\source\repos\lab06\lab12 classes\bin\Debug\netcoreapp2.1\lab12
 C:\Users\LRussell\source\repos\lab06\lab12 classes\bin\Debug\netcoreapp2.1\lab12 classes.pdb
 C:\Users\LRussell\source\repos\lab06\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.dll
 C:\Users\LRussell\source\repos\lab06\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.pdb
+C:\Users\LRussell\source\repos\lab06\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.csprojAssemblyReference.cache

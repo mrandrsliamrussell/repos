@@ -1,0 +1,15 @@
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\bin\Debug\lab17 rabbit wpf website.exe.config
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\bin\Debug\lab17 rabbit wpf website.exe
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\bin\Debug\lab17 rabbit wpf website.pdb
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17 rabbit wpf website.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\MainWindow.g.cs
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\App.g.cs
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17 rabbit wpf website_MarkupCompile.cache
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17 rabbit wpf website_MarkupCompile.lref
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\MainWindow.baml
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17 rabbit wpf website.g.resources
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17_rabbit_wpf_website.Properties.Resources.resources
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17 rabbit wpf website.csproj.GenerateResource.cache
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17 rabbit wpf website.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17 rabbit wpf website.exe
+C:\Users\LRussell\source\repos\lab06\lab17 rabbit wpf website\obj\Debug\lab17 rabbit wpf website.pdb
