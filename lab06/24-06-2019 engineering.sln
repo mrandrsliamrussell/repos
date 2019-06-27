@@ -23,17 +23,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab14 public properties", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab15 constructor", "lab 15 constructor\lab15 constructor.csproj", "{626341B6-9C0B-43DF-B29B-DB218FBF5B9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab16 rabbits", "lab16 rabbits\lab16 rabbits.csproj", "{A5DE9363-87BE-409C-B3E5-DB52523E3442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab16 rabbits", "lab16 rabbits\lab16 rabbits.csproj", "{A5DE9363-87BE-409C-B3E5-DB52523E3442}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab17 rabbit wpf website", "lab17 rabbit wpf website\lab17 rabbit wpf website.csproj", "{FB372C4D-3ED5-4888-BBDC-7EFF81A57FEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab18 method overloading", "lab18 method overloading\lab18 method overloading.csproj", "{0A5B90CC-FD86-4349-8BBA-5F8EFE041706}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab18 method overloading", "lab18 method overloading\lab18 method overloading.csproj", "{0A5B90CC-FD86-4349-8BBA-5F8EFE041706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab19 polymorphism", "lab19 polymorphism\lab19 polymorphism.csproj", "{BAF3BE5D-2B33-44E6-93C6-318A8E208AE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab19 polymorphism", "lab19 polymorphism\lab19 polymorphism.csproj", "{BAF3BE5D-2B33-44E6-93C6-318A8E208AE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab20 library", "lab20 library\lab20 library.csproj", "{7DB35F3A-A3E8-450A-A606-082480086E9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab20 library", "lab20 library\lab20 library.csproj", "{7DB35F3A-A3E8-450A-A606-082480086E9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab20 use data from library", "lab20 use data from library\lab20 use data from library.csproj", "{9D986AEA-1CA9-4A60-B546-C2927F39464B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab20 use data from library", "lab20 use data from library\lab20 use data from library.csproj", "{9D986AEA-1CA9-4A60-B546-C2927F39464B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab21 abstract class", "lab21 abstract class\lab21 abstract class.csproj", "{5A493BCF-73FC-40FB-A713-1FAF0249801E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_NUNIT", "Tests_NUNIT\Tests_NUNIT.csproj", "{E94E7B19-E989-4A7B-A546-B9D01556E78E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab22 first test", "lab22 first test\lab22 first test.csproj", "{E953CCAA-C0D2-4336-9271-E80491671508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_MSTEST", "Tests MSTEST\Tests_MSTEST.csproj", "{FB76C159-F090-45FB-B655-F923B12D2F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_XUNIT", "Tests_XUNIT\Tests_XUNIT.csproj", "{382BAB17-97C9-45AB-BA18-5C765F5877D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +115,26 @@ Global
 		{9D986AEA-1CA9-4A60-B546-C2927F39464B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D986AEA-1CA9-4A60-B546-C2927F39464B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D986AEA-1CA9-4A60-B546-C2927F39464B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A493BCF-73FC-40FB-A713-1FAF0249801E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A493BCF-73FC-40FB-A713-1FAF0249801E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A493BCF-73FC-40FB-A713-1FAF0249801E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A493BCF-73FC-40FB-A713-1FAF0249801E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94E7B19-E989-4A7B-A546-B9D01556E78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94E7B19-E989-4A7B-A546-B9D01556E78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94E7B19-E989-4A7B-A546-B9D01556E78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94E7B19-E989-4A7B-A546-B9D01556E78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E953CCAA-C0D2-4336-9271-E80491671508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E953CCAA-C0D2-4336-9271-E80491671508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E953CCAA-C0D2-4336-9271-E80491671508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E953CCAA-C0D2-4336-9271-E80491671508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB76C159-F090-45FB-B655-F923B12D2F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB76C159-F090-45FB-B655-F923B12D2F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB76C159-F090-45FB-B655-F923B12D2F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB76C159-F090-45FB-B655-F923B12D2F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382BAB17-97C9-45AB-BA18-5C765F5877D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382BAB17-97C9-45AB-BA18-5C765F5877D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382BAB17-97C9-45AB-BA18-5C765F5877D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382BAB17-97C9-45AB-BA18-5C765F5877D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,3 +6,4 @@ C:\Users\LRussell\source\repos\lab06\lab20 library\obj\Debug\netcoreapp2.1\lab20
 C:\Users\LRussell\source\repos\lab06\lab20 library\obj\Debug\netcoreapp2.1\lab20 library.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab20 library\obj\Debug\netcoreapp2.1\lab20 library.dll
 C:\Users\LRussell\source\repos\lab06\lab20 library\obj\Debug\netcoreapp2.1\lab20 library.pdb
+C:\Users\LRussell\source\repos\lab06\lab20 library\obj\Debug\netcoreapp2.1\lab20 library.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\bin\Debug\netcoreapp2.1\Tests_XUNIT.deps.json
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\bin\Debug\netcoreapp2.1\Tests_XUNIT.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\bin\Debug\netcoreapp2.1\Tests_XUNIT.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\bin\Debug\netcoreapp2.1\Tests_XUNIT.dll
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\bin\Debug\netcoreapp2.1\Tests_XUNIT.pdb
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\obj\Debug\netcoreapp2.1\Tests_XUNIT.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\obj\Debug\netcoreapp2.1\Tests_XUNIT.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\obj\Debug\netcoreapp2.1\Tests_XUNIT.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\obj\Debug\netcoreapp2.1\Tests_XUNIT.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\obj\Debug\netcoreapp2.1\Tests_XUNIT.dll
+C:\Users\LRussell\source\repos\lab06\Tests_XUNIT\obj\Debug\netcoreapp2.1\Tests_XUNIT.pdb
