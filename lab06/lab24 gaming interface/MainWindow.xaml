@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:lab24_gaming_interface"
         mc:Ignorable="d"
-        Title="MainWindow" Height="auto" Width="auto" FontSize="40" >
+        Title="MainWindow" Height="auto" Width="auto" FontSize="40"  >
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
@@ -17,9 +17,11 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Label x:Name="WelcomeLabel" Background="CornflowerBlue" Grid.Row="0" Grid.Column="0" MouseEnter="MouseEnterBox"/>
-        <TextBox x:Name="InputName" Grid.Row="1" Grid.Column="1" KeyUp="KeyUp_ChangeTitle" />
+        <Label x:Name="WelcomeLabel" Background="#FFD84D" Grid.Row="0" Grid.Column="0" MouseEnter="MouseEnterBox"/>
+        <TextBox x:Name="InputName" Background="#CCA000" Grid.Row="1" Grid.Column="1" KeyUp="KeyUp_ChangeTitle" />
         <CheckBox x:Name="EditMode" Checked="EditMode_Checked" Grid.Column="2" Grid.Row="1"/>
+        <ListBox x:Name="HighscoresList" Grid.Row="1" Grid.RowSpan="2" Grid.Column="0" Background="#FFC800"/>
+        <Image x:Name="BeachBuggyImage" Margin="0,202.2,-0.4,-0.4" Grid.RowSpan="2" Source="Image2.png" Stretch="Fill" Grid.Column="2" Grid.Row="1"/>
 
     </Grid>
 </Window>

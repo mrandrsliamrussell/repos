@@ -21,14 +21,17 @@ namespace lab24_gaming_interface
     /// </summary>
     public partial class MainWindow : Window
     {
+        List<string> highscores = new List<string>();
         public MainWindow()
         {
             InitializeComponent();
-
+           
             if (File.Exists("Title.txt"))
             {
                 WelcomeLabel.Content = File.ReadAllText("Title.txt");
                 InputName.Text = WelcomeLabel.Content.ToString();
+                
+               // HighscoresList.Items.Add("new item");
             }
             else
             {
@@ -41,8 +44,25 @@ namespace lab24_gaming_interface
         private void KeyUp_ChangeTitle(object sender, EventArgs e)
         {
             WelcomeLabel.Content = InputName.Text;
-           
-            File.WriteAllText("Title.txt", InputName.Text);
+
+            SubmitData();
+        }
+
+        public void SubmitData()
+        {
+            if (Keyboard.IsKeyUp(Key.Enter))
+            {
+
+                highscores.Add(InputName.Text);
+
+                for (int i = 0; i < highscores.Count; i++)
+                {
+
+                    File.WriteAllText("Title.txt", $"{ highscores[i].ToString()}");
+                    HighscoresList.Items.Add($"{ highscores[i].ToString()} ");
+                }
+
+            }
         }
        
 
