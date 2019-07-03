@@ -35,25 +35,39 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab20 library", "lab20 libr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab20 use data from library", "lab20 use data from library\lab20 use data from library.csproj", "{9D986AEA-1CA9-4A60-B546-C2927F39464B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab21 abstract class", "lab21 abstract class\lab21 abstract class.csproj", "{5A493BCF-73FC-40FB-A713-1FAF0249801E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab21 abstract class", "lab21 abstract class\lab21 abstract class.csproj", "{5A493BCF-73FC-40FB-A713-1FAF0249801E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_NUNIT", "Tests_NUNIT\Tests_NUNIT.csproj", "{E94E7B19-E989-4A7B-A546-B9D01556E78E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests_NUNIT", "Tests_NUNIT\Tests_NUNIT.csproj", "{E94E7B19-E989-4A7B-A546-B9D01556E78E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab22 first test", "lab22 first test\lab22 first test.csproj", "{E953CCAA-C0D2-4336-9271-E80491671508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab22 first test", "lab22 first test\lab22 first test.csproj", "{E953CCAA-C0D2-4336-9271-E80491671508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_MSTEST", "Tests MSTEST\Tests_MSTEST.csproj", "{FB76C159-F090-45FB-B655-F923B12D2F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests_MSTEST", "Tests MSTEST\Tests_MSTEST.csproj", "{FB76C159-F090-45FB-B655-F923B12D2F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_XUNIT", "Tests_XUNIT\Tests_XUNIT.csproj", "{382BAB17-97C9-45AB-BA18-5C765F5877D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests_XUNIT", "Tests_XUNIT\Tests_XUNIT.csproj", "{382BAB17-97C9-45AB-BA18-5C765F5877D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab23_Methods", "lab23_Methods\lab23_Methods.csproj", "{C85893EF-900A-4C9F-9371-3EECD512BB27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab23_Methods", "lab23_Methods\lab23_Methods.csproj", "{C85893EF-900A-4C9F-9371-3EECD512BB27}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab24 gaming interface", "lab24 gaming interface\lab24 gaming interface.csproj", "{38A4E392-C46B-4778-AEB4-D90325C647AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab25 strings", "lab25 strings\lab25 strings.csproj", "{2C4FDE42-44F9-4825-BA07-C9E0ABDD629F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab25 strings", "lab25 strings\lab25 strings.csproj", "{2C4FDE42-44F9-4825-BA07-C9E0ABDD629F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab26 integers", "lab26 integers\lab26 integers.csproj", "{3A1C0545-780F-44BC-A3FD-5540006B2DFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab26 integers", "lab26 integers\lab26 integers.csproj", "{3A1C0545-780F-44BC-A3FD-5540006B2DFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "lab 27 more tests\Tests.csproj", "{BE5B852B-6C6D-4369-BE80-1C9FAC065780}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "lab 27 more tests\Tests.csproj", "{BE5B852B-6C6D-4369-BE80-1C9FAC065780}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab27 date time stopwatch", "lab27 date time stopwatch\lab27 date time stopwatch.csproj", "{BD6D7DEE-F188-48D0-9C9B-F72D6D8A22A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab28 Enum", "lab28 Enum\lab28 Enum.csproj", "{C80B1CCD-271D-4EF6-9046-5AFB6E840420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab29 variables", "lab29 variables\lab29 variables.csproj", "{D1E9C3F1-05A5-44D0-943A-6B814FB66BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab30 pyramid", "Lab30 pyramid\Lab30 pyramid.csproj", "{9895DAEA-5EA0-4053-844F-0BAC54A286FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab32 3 cats", "lab32 3 cats\lab32 3 cats.csproj", "{540CD0DD-E178-4AC8-A6CE-87D07C78928F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab33 structs", "lab33 structs\lab33 structs.csproj", "{4D6B9931-AC3B-49AD-B0CD-70112B05E024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab34 List", "lab34 List\lab34 List.csproj", "{F60A0419-BFD2-4659-A0E7-13D1E7D38884}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +179,34 @@ Global
 		{BE5B852B-6C6D-4369-BE80-1C9FAC065780}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE5B852B-6C6D-4369-BE80-1C9FAC065780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE5B852B-6C6D-4369-BE80-1C9FAC065780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6D7DEE-F188-48D0-9C9B-F72D6D8A22A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6D7DEE-F188-48D0-9C9B-F72D6D8A22A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6D7DEE-F188-48D0-9C9B-F72D6D8A22A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6D7DEE-F188-48D0-9C9B-F72D6D8A22A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80B1CCD-271D-4EF6-9046-5AFB6E840420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80B1CCD-271D-4EF6-9046-5AFB6E840420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80B1CCD-271D-4EF6-9046-5AFB6E840420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80B1CCD-271D-4EF6-9046-5AFB6E840420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E9C3F1-05A5-44D0-943A-6B814FB66BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E9C3F1-05A5-44D0-943A-6B814FB66BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E9C3F1-05A5-44D0-943A-6B814FB66BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E9C3F1-05A5-44D0-943A-6B814FB66BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9895DAEA-5EA0-4053-844F-0BAC54A286FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9895DAEA-5EA0-4053-844F-0BAC54A286FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9895DAEA-5EA0-4053-844F-0BAC54A286FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9895DAEA-5EA0-4053-844F-0BAC54A286FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540CD0DD-E178-4AC8-A6CE-87D07C78928F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540CD0DD-E178-4AC8-A6CE-87D07C78928F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540CD0DD-E178-4AC8-A6CE-87D07C78928F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540CD0DD-E178-4AC8-A6CE-87D07C78928F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6B9931-AC3B-49AD-B0CD-70112B05E024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6B9931-AC3B-49AD-B0CD-70112B05E024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6B9931-AC3B-49AD-B0CD-70112B05E024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6B9931-AC3B-49AD-B0CD-70112B05E024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60A0419-BFD2-4659-A0E7-13D1E7D38884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60A0419-BFD2-4659-A0E7-13D1E7D38884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60A0419-BFD2-4659-A0E7-13D1E7D38884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60A0419-BFD2-4659-A0E7-13D1E7D38884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

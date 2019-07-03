@@ -25,7 +25,7 @@ namespace lab24_gaming_interface
         public MainWindow()
         {
             InitializeComponent();
-           
+            Initialise();
             if (File.Exists("Title.txt"))
             {
                 WelcomeLabel.Content = File.ReadAllText("Title.txt");
@@ -57,12 +57,23 @@ namespace lab24_gaming_interface
 
                 for (int i = 0; i < highscores.Count; i++)
                 {
-
-                    File.WriteAllText("Title.txt", $"{ highscores[i].ToString()}");
+                    File.WriteAllLines("Title.txt", highscores);
+                 //   File.WriteAllText("Title.txt", $"{ highscores[i].ToString()}");
                     HighscoresList.Items.Add($"{ highscores[i].ToString()} ");
                 }
 
             }
+        }
+        public void OpenPong(object sender, EventArgs e)
+        {
+            MessageBox.Show("open pong");
+
+           var w = new PongGame();
+           w.Show();
+        }
+        public void Initialise()
+        {
+           
         }
        
 

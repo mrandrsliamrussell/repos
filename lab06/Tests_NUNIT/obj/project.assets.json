@@ -1658,6 +1658,19 @@
         "runtime": {
           "bin/placeholder/lab22 first test.dll": {}
         }
+      },
+      "Tests/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Tests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tests.dll": {}
+        }
       }
     }
   },
@@ -5761,6 +5774,11 @@
       "type": "project",
       "path": "../lab22 first test/lab22 first test.csproj",
       "msbuildProject": "../lab22 first test/lab22 first test.csproj"
+    },
+    "Tests/1.0.0": {
+      "type": "project",
+      "path": "../lab 27 more tests/Tests.csproj",
+      "msbuildProject": "../lab 27 more tests/Tests.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5768,6 +5786,7 @@
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.10.0",
+      "Tests >= 1.0.0",
       "lab22 first test >= 1.0.0",
       "nunit >= 3.10.1"
     ]
@@ -5802,6 +5821,9 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+            "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj": {
+              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj"
+            },
             "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj": {
               "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj"
             }

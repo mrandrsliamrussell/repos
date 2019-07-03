@@ -1,0 +1,10 @@
+C:\Users\LRussell\source\repos\lab06\lab29 random work\bin\Debug\netcoreapp2.1\lab29 random work.deps.json
+C:\Users\LRussell\source\repos\lab06\lab29 random work\bin\Debug\netcoreapp2.1\lab29 random work.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab29 random work\bin\Debug\netcoreapp2.1\lab29 random work.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab29 random work\bin\Debug\netcoreapp2.1\lab29 random work.dll
+C:\Users\LRussell\source\repos\lab06\lab29 random work\bin\Debug\netcoreapp2.1\lab29 random work.pdb
+C:\Users\LRussell\source\repos\lab06\lab29 random work\obj\Debug\netcoreapp2.1\lab29 random work.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab29 random work\obj\Debug\netcoreapp2.1\lab29 random work.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab29 random work\obj\Debug\netcoreapp2.1\lab29 random work.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab29 random work\obj\Debug\netcoreapp2.1\lab29 random work.dll
+C:\Users\LRussell\source\repos\lab06\lab29 random work\obj\Debug\netcoreapp2.1\lab29 random work.pdb

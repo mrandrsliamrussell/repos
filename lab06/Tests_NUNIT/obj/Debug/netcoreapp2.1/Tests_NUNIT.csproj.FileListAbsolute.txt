@@ -16,3 +16,5 @@ C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\obj\Debug\netcoreapp2.1\Tests_N
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\lab22 first test.dll
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\lab22 first test.pdb
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\obj\Debug\netcoreapp2.1\Tests_NUNIT.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\Tests.pdb

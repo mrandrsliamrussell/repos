@@ -1,0 +1,10 @@
+C:\Users\LRussell\source\repos\lab06\lab29 variables\bin\Debug\netcoreapp2.1\lab29 variables.deps.json
+C:\Users\LRussell\source\repos\lab06\lab29 variables\bin\Debug\netcoreapp2.1\lab29 variables.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab29 variables\bin\Debug\netcoreapp2.1\lab29 variables.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab29 variables\bin\Debug\netcoreapp2.1\lab29 variables.dll
+C:\Users\LRussell\source\repos\lab06\lab29 variables\bin\Debug\netcoreapp2.1\lab29 variables.pdb
+C:\Users\LRussell\source\repos\lab06\lab29 variables\obj\Debug\netcoreapp2.1\lab29 variables.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab29 variables\obj\Debug\netcoreapp2.1\lab29 variables.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab29 variables\obj\Debug\netcoreapp2.1\lab29 variables.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab29 variables\obj\Debug\netcoreapp2.1\lab29 variables.dll
+C:\Users\LRussell\source\repos\lab06\lab29 variables\obj\Debug\netcoreapp2.1\lab29 variables.pdb

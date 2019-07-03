@@ -8,3 +8,4 @@ C:\Users\LRussell\source\repos\lab06\lab 15 constructor\obj\Debug\netcoreapp2.1\
 C:\Users\LRussell\source\repos\lab06\lab 15 constructor\obj\Debug\netcoreapp2.1\lab15 constructor.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab 15 constructor\obj\Debug\netcoreapp2.1\lab15 constructor.dll
 C:\Users\LRussell\source\repos\lab06\lab 15 constructor\obj\Debug\netcoreapp2.1\lab15 constructor.pdb
+C:\Users\LRussell\source\repos\lab06\lab 15 constructor\obj\Debug\netcoreapp2.1\lab15 constructor.csprojAssemblyReference.cache

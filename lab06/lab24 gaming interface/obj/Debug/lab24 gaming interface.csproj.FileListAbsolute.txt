@@ -13,3 +13,5 @@ C:\Users\LRussell\source\repos\lab06\lab24 gaming interface\obj\Debug\lab24 gami
 C:\Users\LRussell\source\repos\lab06\lab24 gaming interface\obj\Debug\lab24 gaming interface.csproj.CoreCompileInputs.cache
 C:\Users\LRussell\source\repos\lab06\lab24 gaming interface\obj\Debug\lab24 gaming interface.exe
 C:\Users\LRussell\source\repos\lab06\lab24 gaming interface\obj\Debug\lab24 gaming interface.pdb
+C:\Users\LRussell\source\repos\lab06\lab24 gaming interface\obj\Debug\PongGame.g.cs
+C:\Users\LRussell\source\repos\lab06\lab24 gaming interface\obj\Debug\PongGame.baml
