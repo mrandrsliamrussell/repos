@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections;
 namespace lab34_List
 {
     class Program
@@ -153,7 +154,16 @@ namespace lab34_List
                 sum += i;
             }
             Console.WriteLine(sum);
+            var objectList = new ArrayList();
+            objectList.Add(10);
+            objectList.Add("hi there");
+            objectList.Add(true);
+            objectList.Add(DateTime.Now);
 
+            foreach(var item in objectList)
+            {
+                Console.WriteLine($"{item.GetType()} is a {item}");
+            }
 
         }
 

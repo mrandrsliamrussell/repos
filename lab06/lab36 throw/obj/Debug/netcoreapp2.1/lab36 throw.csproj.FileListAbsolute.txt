@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\lab36 throw\bin\Debug\netcoreapp2.1\lab36 throw.deps.json
+C:\Users\LRussell\source\repos\lab06\lab36 throw\bin\Debug\netcoreapp2.1\lab36 throw.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab36 throw\bin\Debug\netcoreapp2.1\lab36 throw.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab36 throw\bin\Debug\netcoreapp2.1\lab36 throw.dll
+C:\Users\LRussell\source\repos\lab06\lab36 throw\bin\Debug\netcoreapp2.1\lab36 throw.pdb
+C:\Users\LRussell\source\repos\lab06\lab36 throw\obj\Debug\netcoreapp2.1\lab36 throw.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab36 throw\obj\Debug\netcoreapp2.1\lab36 throw.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab36 throw\obj\Debug\netcoreapp2.1\lab36 throw.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab36 throw\obj\Debug\netcoreapp2.1\lab36 throw.dll
+C:\Users\LRussell\source\repos\lab06\lab36 throw\obj\Debug\netcoreapp2.1\lab36 throw.pdb
+C:\Users\LRussell\source\repos\lab06\lab36 throw\obj\Debug\netcoreapp2.1\lab36 throw.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\obj\Debug\netcoreapp2.2\lab44 crash your computer.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\obj\Debug\netcoreapp2.2\lab44 crash your computer.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\obj\Debug\netcoreapp2.2\lab44 crash your computer.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\obj\Debug\netcoreapp2.2\lab44 crash your computer.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\bin\Debug\netcoreapp2.2\lab44 crash your computer.deps.json
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\bin\Debug\netcoreapp2.2\lab44 crash your computer.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\bin\Debug\netcoreapp2.2\lab44 crash your computer.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\bin\Debug\netcoreapp2.2\lab44 crash your computer.dll
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\bin\Debug\netcoreapp2.2\lab44 crash your computer.pdb
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\obj\Debug\netcoreapp2.2\lab44 crash your computer.dll
+C:\Users\LRussell\source\repos\lab06\lab44 crash your computer\obj\Debug\netcoreapp2.2\lab44 crash your computer.pdb

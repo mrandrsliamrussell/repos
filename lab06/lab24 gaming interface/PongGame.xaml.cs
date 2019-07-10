@@ -19,9 +19,16 @@ namespace lab24_gaming_interface
     /// </summary>
     public partial class PongGame : Window
     {
+        double XVelocity = 4, YVelocity = 4, angle = 0;
+        double x = 0, y = 0;
         public PongGame()
         {
             InitializeComponent();
+            Task task = Task.Run(() =>
+            {
+                mainGrid.Dispatcher.BeginInvoke(new Action(() => BallController()));
+            });
+           // await task;
         }
 
         private void P1KeyPress(object sender, EventArgs e)
@@ -52,18 +59,10 @@ namespace lab24_gaming_interface
 
 
         }
+        
 
-        private void BallController()
-        {
-            float XVelocity, YVelocity, angle = 0;
-            double x = 0, y = 0;
-
-
-            XVelocity = 4;
-            YVelocity = 4;
-
-            
-            Thickness BallThickness = new Thickness(Ball.Margin.Left + XVelocity, Ball.Margin.Top +YVelocity, Ball.Margin.Right - XVelocity, Ball.Margin.Bottom -YVelocity);
+        private async void BallController()
+        {                     
             if(Ball.Margin.Left < Player1.Margin.Right)
             {
                 angle = 180 - angle;
@@ -71,20 +70,22 @@ namespace lab24_gaming_interface
             if(Ball.Margin.Right > Player2.Margin.Left)
             {
                 angle = 180 - angle;
-            }
-            
-            x += XVelocity * Math.Cos(angle * Math.PI / 180);
-            y += XVelocity * Math.Sin(angle * Math.PI / 180);
+            }           
 
-            if (x < 0 || x > mainGrid.ColumnDefinitions[1].Width.Value)
+            if (Ball.Margin.Left < 0 || Ball.Margin.Left > mainGrid.ColumnDefinitions[1].Width.Value)
             {
                 angle = 180 - angle;
             }
-            else if (y < 0 || y > mainGrid.RowDefinitions[1].Height.Value)
+            else if (Ball.Margin.Top < 0 || Ball.Margin.Top > mainGrid.RowDefinitions[1].Height.Value)
             {
                 angle = 360 - angle;
             }
-
+            XVelocity += XVelocity * Math.Cos(angle * Math.PI / 180);
+            YVelocity += XVelocity * Math.Sin(angle * Math.PI / 180);
+            XVelocity = 2;
+            YVelocity = 2;
+            Thickness BallThickness = new Thickness(Ball.Margin.Left + XVelocity, Ball.Margin.Top + YVelocity, Ball.Margin.Right - XVelocity, Ball.Margin.Bottom - YVelocity);
+            
         }
 
        
