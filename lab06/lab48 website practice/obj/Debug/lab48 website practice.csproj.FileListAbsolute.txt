@@ -1,0 +1,21 @@
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\MainWindow.g.cs
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\App.g.cs
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice_Content.g.cs
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice_MarkupCompile.cache
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice_MarkupCompile.lref
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\bin\Debug\lab48 website practice.exe.config
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\bin\Debug\lab48 website practice.exe
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\bin\Debug\lab48 website practice.pdb
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\bin\Debug\EntityFramework.dll
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\bin\Debug\EntityFramework.xml
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\MainWindow.baml
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice.g.resources
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48_website_practice.Properties.Resources.resources
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice.csproj.GenerateResource.cache
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice.exe
+C:\Users\LRussell\source\repos\lab06\lab48 website practice\obj\Debug\lab48 website practice.pdb

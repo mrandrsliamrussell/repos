@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\bin\Debug\netcoreapp2.2\lab48 snaplab2.deps.json
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\bin\Debug\netcoreapp2.2\lab48 snaplab2.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\bin\Debug\netcoreapp2.2\lab48 snaplab2.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\bin\Debug\netcoreapp2.2\lab48 snaplab2.dll
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\bin\Debug\netcoreapp2.2\lab48 snaplab2.pdb
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\obj\Debug\netcoreapp2.2\lab48 snaplab2.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\obj\Debug\netcoreapp2.2\lab48 snaplab2.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\obj\Debug\netcoreapp2.2\lab48 snaplab2.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\obj\Debug\netcoreapp2.2\lab48 snaplab2.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\obj\Debug\netcoreapp2.2\lab48 snaplab2.dll
+C:\Users\LRussell\source\repos\lab06\lab48 snaplab2\obj\Debug\netcoreapp2.2\lab48 snaplab2.pdb
