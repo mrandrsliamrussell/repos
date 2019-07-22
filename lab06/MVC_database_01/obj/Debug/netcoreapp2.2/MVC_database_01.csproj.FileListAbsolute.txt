@@ -1,0 +1,6 @@
+C:\Users\LRussell\source\repos\lab06\MVC_database_01\obj\Debug\netcoreapp2.2\MVC_database_01.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\MVC_database_01\obj\Debug\netcoreapp2.2\MVC_database_01.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\MVC_database_01\obj\Debug\netcoreapp2.2\MVC_database_01.RazorAssemblyInfo.cache
+C:\Users\LRussell\source\repos\lab06\MVC_database_01\obj\Debug\netcoreapp2.2\MVC_database_01.RazorAssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\MVC_database_01\obj\Debug\netcoreapp2.2\MVC_database_01.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\MVC_database_01\obj\Debug\netcoreapp2.2\MVC_database_01.AssemblyInfo.cs

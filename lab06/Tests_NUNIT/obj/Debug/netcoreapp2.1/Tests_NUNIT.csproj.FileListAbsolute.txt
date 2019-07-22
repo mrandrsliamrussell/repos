@@ -18,3 +18,7 @@ C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\lab22 f
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\obj\Debug\netcoreapp2.1\Tests_NUNIT.csproj.CopyComplete
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\Tests.dll
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\snap lab 5 console core.dll
+C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\snap lab 5 console core.pdb
+C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\snap lab 6.dll
+C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\snap lab 6.pdb

@@ -1,6 +1,8 @@
 using NUnit.Framework;
 using lab22_first_test;
 using Eng_35_Tests;
+using snap_lab_5_console_core;
+using snap_lab_6;
 
 namespace Tests
 {
@@ -119,6 +121,22 @@ namespace Tests
             //assert
             Assert.AreEqual(expected, actual);
 
+        }
+        [TestCase (1000000,29)]
+        public void rabbitExplosion(int input, int expected)
+        {
+            var actual = snap_lab_5_console_core.Rabbits.rabbits();
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestCase (new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 },  1)]
+
+        public void SubarraySum(int[] input, int expected)
+        {
+            var actual = snapLab6.SubarraySum(input, expected);
+
+            Assert.AreEqual(expected, actual);
         }
 
     }
