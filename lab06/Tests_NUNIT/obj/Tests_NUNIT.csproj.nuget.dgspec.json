@@ -224,6 +224,58 @@
         }
       }
     },
+    "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj",
+        "projectName": "snaplab18 interfaces",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj",
+        "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LRussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\Tests_NUNIT.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -261,6 +313,9 @@
               },
               "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj": {
                 "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj"
+              },
+              "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj": {
+                "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj"
               }
             }
           }

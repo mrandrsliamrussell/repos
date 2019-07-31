@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\bin\Debug\netcoreapp2.2\snaplab18 interfaces.deps.json
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\bin\Debug\netcoreapp2.2\snaplab18 interfaces.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\bin\Debug\netcoreapp2.2\snaplab18 interfaces.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\bin\Debug\netcoreapp2.2\snaplab18 interfaces.dll
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\bin\Debug\netcoreapp2.2\snaplab18 interfaces.pdb
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\obj\Debug\netcoreapp2.2\snaplab18 interfaces.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\obj\Debug\netcoreapp2.2\snaplab18 interfaces.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\obj\Debug\netcoreapp2.2\snaplab18 interfaces.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\obj\Debug\netcoreapp2.2\snaplab18 interfaces.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\obj\Debug\netcoreapp2.2\snaplab18 interfaces.dll
+C:\Users\LRussell\source\repos\lab06\snaplab18 interfaces\obj\Debug\netcoreapp2.2\snaplab18 interfaces.pdb

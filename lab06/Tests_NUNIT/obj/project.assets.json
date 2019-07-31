@@ -1708,6 +1708,16 @@
           "bin/placeholder/snap lab 6.dll": {}
         }
       },
+      "snaplab18 interfaces/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/snaplab18 interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/snaplab18 interfaces.dll": {}
+        }
+      },
       "Tests/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -5869,6 +5879,11 @@
       "path": "../snap lab 6/snap lab 6.csproj",
       "msbuildProject": "../snap lab 6/snap lab 6.csproj"
     },
+    "snaplab18 interfaces/1.0.0": {
+      "type": "project",
+      "path": "../snaplab18 interfaces/snaplab18 interfaces.csproj",
+      "msbuildProject": "../snaplab18 interfaces/snaplab18 interfaces.csproj"
+    },
     "Tests/1.0.0": {
       "type": "project",
       "path": "../lab 27 more tests/Tests.csproj",
@@ -5884,7 +5899,8 @@
       "lab22 first test >= 1.0.0",
       "nunit >= 3.10.1",
       "snap lab 5 console core >= 1.0.0",
-      "snap lab 6 >= 1.0.0"
+      "snap lab 6 >= 1.0.0",
+      "snaplab18 interfaces >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5928,6 +5944,9 @@
             },
             "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj": {
               "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj"
+            },
+            "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj": {
+              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj"
             }
           }
         }
@@ -5995,6 +6014,15 @@
       "warningLevel": 1,
       "message": "Package 'Microsoft.Office.Interop.Word 15.0.4797.1003' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.1'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Office.Interop.Word",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project snaplab18 interfaces is not compatible with netcoreapp2.1 (.NETCoreApp,Version=v2.1). Project snaplab18 interfaces supports: netcoreapp2.2 (.NETCoreApp,Version=v2.2)",
+      "libraryId": "snaplab18 interfaces",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.1"
       ]

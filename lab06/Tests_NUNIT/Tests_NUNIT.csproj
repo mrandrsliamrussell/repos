@@ -17,6 +17,7 @@
     <ProjectReference Include="..\lab22 first test\lab22 first test.csproj" />
     <ProjectReference Include="..\snap lab 5 console core\snap lab 5 console core.csproj" />
     <ProjectReference Include="..\snap lab 6\snap lab 6.csproj" />
+    <ProjectReference Include="..\snaplab18 interfaces\snaplab18 interfaces.csproj" />
   </ItemGroup>
 
 </Project>

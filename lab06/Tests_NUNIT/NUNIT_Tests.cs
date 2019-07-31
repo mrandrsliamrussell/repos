@@ -138,6 +138,9 @@ namespace Tests
 
             Assert.AreEqual(expected, actual);
         }
+        [TestCase (800,300,150)]
+
+        public void 
 
     }
 }
