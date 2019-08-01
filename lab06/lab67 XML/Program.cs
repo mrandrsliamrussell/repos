@@ -51,6 +51,10 @@ namespace lab67_XML
 
                 );
             Console.WriteLine(xml04);
+            //thin of your data in edatabase table
+            //xml root is name of tablr
+            //xml attribute is the name of a field with the value
+            //xml data is individual entry in the database
         }
     }
 }
