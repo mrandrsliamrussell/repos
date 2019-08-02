@@ -33,15 +33,60 @@ namespace lab69_XML_from_northwind
                
 
                     var XMLProducts = new XElement("Products",
-                        from pl in productList.Take(5)
+                        from pl in productList
                         select new XElement("Product" ,
                        new XElement("ProductID", pl.ProductName),
                         new XElement("ProductName", pl.ProductID),
                         new XElement("CategoryID", pl.CategoryID),
                          new XElement("UnitPrice", pl.UnitPrice)
+
                         ));
-                Console.WriteLine(XMLProducts);
+               Console.WriteLine(XMLProducts);
                 XMLProducts.Save("products.xml");
+
+
+
+                var appsettings = XMLProducts.Descendants("Product").Select(node => new
+                {
+                    ProductID = node.Element("ProductID").Value,
+                    ProductName = node.Element("ProductName").Value,
+                    CategoryID = node.Element("CategoryID"),
+                    UnitPrice = node.Element("UnitPrice")
+                }).ToArray();
+
+                foreach(var prod in appsettings)
+                {
+                    Console.WriteLine(prod.ProductID);
+                }
+                
+                
+
+
+                XDocument doc = XDocument.Load("products.xml");
+
+                foreach (XElement element in doc.Descendants("XMLRoot")) {
+
+                    foreach (var subelement in element.Descendants("XMLData"))
+                    {
+                        Console.WriteLine($"element value is {subelement.Value}");
+                    }
+                        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 // productList.ForEach(p => Console.WriteLine($"{p.ProductName}  {p.ProductID}  {p.CategoryID}  {p.UnitPrice}"));
 
                 var productsFromXml = new Product();
@@ -49,7 +94,7 @@ namespace lab69_XML_from_northwind
                 {
                     var serialiser = new XmlSerializer(typeof(Products));
 
-                     productsFromXml = (Product)serialiser.Deserialize(reader);
+                     //productsFromXml = (Product)serialiser.Deserialize(reader);
                 }
                  
             }

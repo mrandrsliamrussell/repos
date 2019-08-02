@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab69 XML from northwind\obj\Debug\netcorea
 C:\Users\LRussell\source\repos\lab06\lab69 XML from northwind\bin\Debug\netcoreapp2.2\lab69 XML from northwind.pdb
 C:\Users\LRussell\source\repos\lab06\lab69 XML from northwind\obj\Debug\netcoreapp2.2\lab69 XML from northwind.dll
 C:\Users\LRussell\source\repos\lab06\lab69 XML from northwind\obj\Debug\netcoreapp2.2\lab69 XML from northwind.pdb
+C:\Users\LRussell\source\repos\lab69 XML from northwind\bin\Debug\netcoreapp2.2\lab69 XML from northwind.deps.json
+C:\Users\LRussell\source\repos\lab69 XML from northwind\bin\Debug\netcoreapp2.2\lab69 XML from northwind.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab69 XML from northwind\bin\Debug\netcoreapp2.2\lab69 XML from northwind.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab69 XML from northwind\bin\Debug\netcoreapp2.2\lab69 XML from northwind.dll
+C:\Users\LRussell\source\repos\lab69 XML from northwind\bin\Debug\netcoreapp2.2\lab69 XML from northwind.pdb
+C:\Users\LRussell\source\repos\lab69 XML from northwind\obj\Debug\netcoreapp2.2\lab69 XML from northwind.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab69 XML from northwind\obj\Debug\netcoreapp2.2\lab69 XML from northwind.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab69 XML from northwind\obj\Debug\netcoreapp2.2\lab69 XML from northwind.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab69 XML from northwind\obj\Debug\netcoreapp2.2\lab69 XML from northwind.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab69 XML from northwind\obj\Debug\netcoreapp2.2\lab69 XML from northwind.dll
+C:\Users\LRussell\source\repos\lab69 XML from northwind\obj\Debug\netcoreapp2.2\lab69 XML from northwind.pdb

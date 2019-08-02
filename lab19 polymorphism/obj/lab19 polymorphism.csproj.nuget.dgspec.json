@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab19 polymorphism\\lab19 polymorphism.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab19 polymorphism\\lab19 polymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab19 polymorphism\\lab19 polymorphism.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab19 polymorphism\\lab19 polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab19 polymorphism\\lab19 polymorphism.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab19 polymorphism\\lab19 polymorphism.csproj",
         "projectName": "lab19 polymorphism",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab19 polymorphism\\lab19 polymorphism.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab19 polymorphism\\lab19 polymorphism.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab19 polymorphism\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab19 polymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

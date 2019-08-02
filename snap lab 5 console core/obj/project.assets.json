@@ -762,11 +762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\snap lab 5 console core\\snap lab 5 console core.csproj",
       "projectName": "snap lab 5 console core",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\snap lab 5 console core\\snap lab 5 console core.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\snap lab 5 console core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

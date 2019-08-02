@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab28 Enum\\lab28 Enum.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab28 Enum\\lab28 Enum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab28 Enum\\lab28 Enum.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab28 Enum\\lab28 Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab28 Enum\\lab28 Enum.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab28 Enum\\lab28 Enum.csproj",
         "projectName": "lab28 Enum",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab28 Enum\\lab28 Enum.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab28 Enum\\lab28 Enum.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab28 Enum\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab28 Enum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

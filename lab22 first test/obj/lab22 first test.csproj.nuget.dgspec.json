@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab22 first test\\lab22 first test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab22 first test\\lab22 first test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab22 first test\\lab22 first test.csproj",
         "projectName": "lab22 first test",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab22 first test\\lab22 first test.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab22 first test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

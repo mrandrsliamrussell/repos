@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab 27 more tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab 27 more tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab 27 more tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab 27 more tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab 27 more tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab60 events trivial\\lab60 events trivial.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab60 events trivial\\lab60 events trivial.csproj",
       "projectName": "lab60 events trivial",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab60 events trivial\\lab60 events trivial.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab60 events trivial\\lab60 events trivial.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab60 events trivial\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab60 events trivial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

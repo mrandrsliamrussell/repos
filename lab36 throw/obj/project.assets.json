@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab36 throw\\lab36 throw.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab36 throw\\lab36 throw.csproj",
       "projectName": "lab36 throw",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab36 throw\\lab36 throw.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab36 throw\\lab36 throw.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab36 throw\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab36 throw\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

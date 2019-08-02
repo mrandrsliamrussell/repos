@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab62 streaming\\lab62 streaming.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab62 streaming\\lab62 streaming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab62 streaming\\lab62 streaming.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab62 streaming\\lab62 streaming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab62 streaming\\lab62 streaming.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab62 streaming\\lab62 streaming.csproj",
         "projectName": "lab62 streaming",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab62 streaming\\lab62 streaming.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab62 streaming\\lab62 streaming.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab62 streaming\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab62 streaming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

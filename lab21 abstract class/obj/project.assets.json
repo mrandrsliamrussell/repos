@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab21 abstract class\\lab21 abstract class.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab21 abstract class\\lab21 abstract class.csproj",
       "projectName": "lab21 abstract class",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab21 abstract class\\lab21 abstract class.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab21 abstract class\\lab21 abstract class.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab21 abstract class\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab21 abstract class\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

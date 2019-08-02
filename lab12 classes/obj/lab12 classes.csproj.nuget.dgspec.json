@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab12 classes\\lab12 classes.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab12 classes\\lab12 classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab12 classes\\lab12 classes.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab12 classes\\lab12 classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab12 classes\\lab12 classes.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab12 classes\\lab12 classes.csproj",
         "projectName": "lab12 classes",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab12 classes\\lab12 classes.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab12 classes\\lab12 classes.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab12 classes\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab12 classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

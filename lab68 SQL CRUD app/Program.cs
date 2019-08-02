@@ -12,6 +12,7 @@ namespace lab68_SQL_CRUD_app
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Environment.GetEnvironmentVariable("password"));                
             AddCustomerToDatabase(GenerateID().ToString(), "Mr Brian Bedungdy", "Brian's Bedungdies", "Londoooooooon");
             // UpdateCustomer("AAAAA", "Mr Jim Sterling", "Jims Jimmys", "London");
             // DeletThis("AAAAA");

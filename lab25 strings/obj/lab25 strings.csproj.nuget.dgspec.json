@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab25 strings\\lab25 strings.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab25 strings\\lab25 strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab25 strings\\lab25 strings.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab25 strings\\lab25 strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab25 strings\\lab25 strings.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab25 strings\\lab25 strings.csproj",
         "projectName": "lab25 strings",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab25 strings\\lab25 strings.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab25 strings\\lab25 strings.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab25 strings\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab25 strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

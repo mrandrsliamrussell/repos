@@ -5910,11 +5910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\Tests_NUNIT.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\Tests_NUNIT\\Tests_NUNIT.csproj",
       "projectName": "Tests_NUNIT",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\Tests_NUNIT.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\Tests_NUNIT\\Tests_NUNIT.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\Tests_NUNIT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5933,20 +5933,20 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj": {
-              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj"
+            "C:\\Users\\LRussell\\source\\repos\\lab 27 more tests\\Tests.csproj": {
+              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab 27 more tests\\Tests.csproj"
             },
-            "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj": {
-              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj"
+            "C:\\Users\\LRussell\\source\\repos\\lab22 first test\\lab22 first test.csproj": {
+              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab22 first test\\lab22 first test.csproj"
             },
-            "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj": {
-              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj"
+            "C:\\Users\\LRussell\\source\\repos\\snap lab 5 console core\\snap lab 5 console core.csproj": {
+              "projectPath": "C:\\Users\\LRussell\\source\\repos\\snap lab 5 console core\\snap lab 5 console core.csproj"
             },
-            "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj": {
-              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj"
+            "C:\\Users\\LRussell\\source\\repos\\snap lab 6\\snap lab 6.csproj": {
+              "projectPath": "C:\\Users\\LRussell\\source\\repos\\snap lab 6\\snap lab 6.csproj"
             },
-            "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj": {
-              "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj"
+            "C:\\Users\\LRussell\\source\\repos\\snaplab18 interfaces\\snaplab18 interfaces.csproj": {
+              "projectPath": "C:\\Users\\LRussell\\source\\repos\\snaplab18 interfaces\\snaplab18 interfaces.csproj"
             }
           }
         }

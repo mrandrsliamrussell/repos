@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab16 rabbits\\lab16 rabbits.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab16 rabbits\\lab16 rabbits.csproj",
       "projectName": "lab16 rabbits",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab16 rabbits\\lab16 rabbits.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab16 rabbits\\lab16 rabbits.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab16 rabbits\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab16 rabbits\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

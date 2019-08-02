@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab23_Methods\\lab23_Methods.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab23_Methods\\lab23_Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab23_Methods\\lab23_Methods.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab23_Methods\\lab23_Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab23_Methods\\lab23_Methods.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab23_Methods\\lab23_Methods.csproj",
         "projectName": "lab23_Methods",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab23_Methods\\lab23_Methods.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab23_Methods\\lab23_Methods.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab23_Methods\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab23_Methods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

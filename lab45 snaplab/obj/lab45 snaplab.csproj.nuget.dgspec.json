@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab45 snaplab\\lab45 snaplab.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab45 snaplab\\lab45 snaplab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab45 snaplab\\lab45 snaplab.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab45 snaplab\\lab45 snaplab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab45 snaplab\\lab45 snaplab.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab45 snaplab\\lab45 snaplab.csproj",
         "projectName": "lab45 snaplab",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab45 snaplab\\lab45 snaplab.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab45 snaplab\\lab45 snaplab.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab45 snaplab\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab45 snaplab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

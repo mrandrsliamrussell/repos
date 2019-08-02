@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_XUNIT\\Tests_XUNIT.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\Tests_XUNIT\\Tests_XUNIT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_XUNIT\\Tests_XUNIT.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\Tests_XUNIT\\Tests_XUNIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_XUNIT\\Tests_XUNIT.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\Tests_XUNIT\\Tests_XUNIT.csproj",
         "projectName": "Tests_XUNIT",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_XUNIT\\Tests_XUNIT.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\Tests_XUNIT\\Tests_XUNIT.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_XUNIT\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\Tests_XUNIT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

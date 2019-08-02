@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab61 events oop\\lab61 events oop.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab61 events oop\\lab61 events oop.csproj",
       "projectName": "lab61 events oop",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab61 events oop\\lab61 events oop.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab61 events oop\\lab61 events oop.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab61 events oop\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab61 events oop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

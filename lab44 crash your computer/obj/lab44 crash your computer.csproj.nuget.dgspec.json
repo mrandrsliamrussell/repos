@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab44 crash your computer\\lab44 crash your computer.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab44 crash your computer\\lab44 crash your computer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab44 crash your computer\\lab44 crash your computer.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab44 crash your computer\\lab44 crash your computer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab44 crash your computer\\lab44 crash your computer.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab44 crash your computer\\lab44 crash your computer.csproj",
         "projectName": "lab44 crash your computer",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab44 crash your computer\\lab44 crash your computer.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab44 crash your computer\\lab44 crash your computer.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab44 crash your computer\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab44 crash your computer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

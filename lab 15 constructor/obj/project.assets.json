@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 15 constructor\\lab15 constructor.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab 15 constructor\\lab15 constructor.csproj",
       "projectName": "lab15 constructor",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 15 constructor\\lab15 constructor.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab 15 constructor\\lab15 constructor.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 15 constructor\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab 15 constructor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

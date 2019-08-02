@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 17 annoying app\\snap lab 17 annoying app.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\snap lab 17 annoying app\\snap lab 17 annoying app.csproj",
       "projectName": "snap lab 17 annoying app",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 17 annoying app\\snap lab 17 annoying app.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\snap lab 17 annoying app\\snap lab 17 annoying app.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 17 annoying app\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\snap lab 17 annoying app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

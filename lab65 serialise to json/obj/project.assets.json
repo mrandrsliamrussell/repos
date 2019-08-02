@@ -732,11 +732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab65 serialise to json\\lab65 serialise to json.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab65 serialise to json\\lab65 serialise to json.csproj",
       "projectName": "lab65 serialise to json",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab65 serialise to json\\lab65 serialise to json.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab65 serialise to json\\lab65 serialise to json.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab65 serialise to json\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab65 serialise to json\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

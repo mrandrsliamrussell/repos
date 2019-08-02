@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab20 library\\lab20 library.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab20 library\\lab20 library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab20 library\\lab20 library.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab20 library\\lab20 library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab20 library\\lab20 library.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab20 library\\lab20 library.csproj",
         "projectName": "lab20 library",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab20 library\\lab20 library.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab20 library\\lab20 library.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab20 library\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab20 library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

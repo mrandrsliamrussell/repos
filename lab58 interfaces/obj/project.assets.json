@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab58 interfaces\\lab58 interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab58 interfaces\\lab58 interfaces.csproj",
       "projectName": "lab58 interfaces",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab58 interfaces\\lab58 interfaces.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab58 interfaces\\lab58 interfaces.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab58 interfaces\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab58 interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

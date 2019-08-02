@@ -12085,11 +12085,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab56 website hello world\\lab56 website hello world.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab56 website hello world\\lab56 website hello world.csproj",
       "projectName": "lab56 website hello world",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab56 website hello world\\lab56 website hello world.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab56 website hello world\\lab56 website hello world.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab56 website hello world\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab56 website hello world\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

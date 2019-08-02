@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab42 operaters\\lab42 operaters.csproj": {}
+    "C:\\Users\\LRussell\\source\\repos\\lab42 operaters\\lab42 operaters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab42 operaters\\lab42 operaters.csproj": {
+    "C:\\Users\\LRussell\\source\\repos\\lab42 operaters\\lab42 operaters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab42 operaters\\lab42 operaters.csproj",
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab42 operaters\\lab42 operaters.csproj",
         "projectName": "lab42 operaters",
-        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab42 operaters\\lab42 operaters.csproj",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab42 operaters\\lab42 operaters.csproj",
         "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab42 operaters\\obj\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab42 operaters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

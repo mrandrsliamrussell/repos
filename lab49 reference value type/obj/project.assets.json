@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab49 reference value type\\lab49 reference value type.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab49 reference value type\\lab49 reference value type.csproj",
       "projectName": "lab49 reference value type",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab49 reference value type\\lab49 reference value type.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab49 reference value type\\lab49 reference value type.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab49 reference value type\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab49 reference value type\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

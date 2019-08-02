@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\snaplab18 interfaces\\snaplab18 interfaces.csproj",
       "projectName": "snaplab18 interfaces",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\snaplab18 interfaces\\snaplab18 interfaces.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\snaplab18 interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

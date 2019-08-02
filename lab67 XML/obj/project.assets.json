@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab67 XML\\lab67 XML.csproj",
+      "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab67 XML\\lab67 XML.csproj",
       "projectName": "lab67 XML",
-      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab67 XML\\lab67 XML.csproj",
+      "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab67 XML\\lab67 XML.csproj",
       "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab67 XML\\obj\\",
+      "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab67 XML\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
