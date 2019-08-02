@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\obj\Debug\netcoreapp2.1\lab16 rabbits.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\obj\Debug\netcoreapp2.1\lab16 rabbits.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\obj\Debug\netcoreapp2.1\lab16 rabbits.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\bin\Debug\netcoreapp2.1\lab16 rabbits.deps.json
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\bin\Debug\netcoreapp2.1\lab16 rabbits.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\bin\Debug\netcoreapp2.1\lab16 rabbits.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\bin\Debug\netcoreapp2.1\lab16 rabbits.dll
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\bin\Debug\netcoreapp2.1\lab16 rabbits.pdb
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\obj\Debug\netcoreapp2.1\lab16 rabbits.dll
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\obj\Debug\netcoreapp2.1\lab16 rabbits.pdb
+C:\Users\LRussell\source\repos\lab06\lab16 rabbits\obj\Debug\netcoreapp2.1\lab16 rabbits.csprojAssemblyReference.cache

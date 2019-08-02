@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\lab50 Async\bin\Debug\netcoreapp2.2\lab50 Async.deps.json
+C:\Users\LRussell\source\repos\lab06\lab50 Async\bin\Debug\netcoreapp2.2\lab50 Async.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab50 Async\bin\Debug\netcoreapp2.2\lab50 Async.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab50 Async\bin\Debug\netcoreapp2.2\lab50 Async.dll
+C:\Users\LRussell\source\repos\lab06\lab50 Async\bin\Debug\netcoreapp2.2\lab50 Async.pdb
+C:\Users\LRussell\source\repos\lab06\lab50 Async\obj\Debug\netcoreapp2.2\lab50 Async.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab50 Async\obj\Debug\netcoreapp2.2\lab50 Async.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab50 Async\obj\Debug\netcoreapp2.2\lab50 Async.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab50 Async\obj\Debug\netcoreapp2.2\lab50 Async.dll
+C:\Users\LRussell\source\repos\lab06\lab50 Async\obj\Debug\netcoreapp2.2\lab50 Async.pdb
+C:\Users\LRussell\source\repos\lab06\lab50 Async\obj\Debug\netcoreapp2.2\lab50 Async.csprojAssemblyReference.cache

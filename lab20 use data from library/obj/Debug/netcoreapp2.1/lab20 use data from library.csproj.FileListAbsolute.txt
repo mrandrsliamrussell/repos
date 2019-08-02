@@ -1,0 +1,14 @@
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\bin\Debug\netcoreapp2.1\lab20 use data from library.deps.json
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\bin\Debug\netcoreapp2.1\lab20 use data from library.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\bin\Debug\netcoreapp2.1\lab20 use data from library.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\bin\Debug\netcoreapp2.1\lab20 use data from library.dll
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\bin\Debug\netcoreapp2.1\lab20 use data from library.pdb
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\bin\Debug\netcoreapp2.1\lab20 library.dll
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\bin\Debug\netcoreapp2.1\lab20 library.pdb
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\obj\Debug\netcoreapp2.1\lab20 use data from library.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\obj\Debug\netcoreapp2.1\lab20 use data from library.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\obj\Debug\netcoreapp2.1\lab20 use data from library.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\obj\Debug\netcoreapp2.1\lab20 use data from library.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\obj\Debug\netcoreapp2.1\lab20 use data from library.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\obj\Debug\netcoreapp2.1\lab20 use data from library.dll
+C:\Users\LRussell\source\repos\lab06\lab20 use data from library\obj\Debug\netcoreapp2.1\lab20 use data from library.pdb

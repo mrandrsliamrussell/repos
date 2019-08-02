@@ -1,9 +1,0 @@
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\bin\Debug\lab55 csv word excel.exe.config
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\bin\Debug\lab55 csv word excel.exe
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\bin\Debug\lab55 csv word excel.pdb
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\obj\Debug\lab55 csv word excel.csprojAssemblyReference.cache
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\obj\Debug\lab55 csv word excel.csproj.CoreCompileInputs.cache
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\obj\Debug\lab55 csv word excel.exe
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\obj\Debug\lab55 csv word excel.pdb
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\bin\Debug\Xceed.Words.NET.dll
-C:\Users\LRussell\source\repos\lab06\lab55 csv word excel\obj\Debug\lab55 csv word excel.csproj.CopyComplete

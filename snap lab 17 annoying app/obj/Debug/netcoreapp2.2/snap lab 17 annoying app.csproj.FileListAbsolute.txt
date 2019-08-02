@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\bin\Debug\netcoreapp2.2\snap lab 17 annoying app.deps.json
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\bin\Debug\netcoreapp2.2\snap lab 17 annoying app.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\bin\Debug\netcoreapp2.2\snap lab 17 annoying app.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\bin\Debug\netcoreapp2.2\snap lab 17 annoying app.dll
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\bin\Debug\netcoreapp2.2\snap lab 17 annoying app.pdb
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\obj\Debug\netcoreapp2.2\snap lab 17 annoying app.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\obj\Debug\netcoreapp2.2\snap lab 17 annoying app.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\obj\Debug\netcoreapp2.2\snap lab 17 annoying app.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\obj\Debug\netcoreapp2.2\snap lab 17 annoying app.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\obj\Debug\netcoreapp2.2\snap lab 17 annoying app.dll
+C:\Users\LRussell\source\repos\lab06\snap lab 17 annoying app\obj\Debug\netcoreapp2.2\snap lab 17 annoying app.pdb

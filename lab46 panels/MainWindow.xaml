@@ -1,0 +1,82 @@
+﻿<Window x:Class="lab46_panels.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab46_panels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="auto" Width="auto" FontSize="24">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="Label01" Content="Stack Panel" HorizontalContentAlignment="Center" Background="Azure" Grid.Column="0" Grid.Row="0"/>
+        <Label x:Name="Label02" Content="Dock Panel" HorizontalContentAlignment="Center" Background="Azure" Grid.Column="1" Grid.Row="0"/>
+        <Label x:Name="Label03" Content="Wrap Panel" HorizontalContentAlignment="Center" Background="Azure" Grid.Column="2" Grid.Row="0"/>
+        <Label x:Name="Label04" Content="Tab Panel" HorizontalContentAlignment="Center" Background="Azure" Grid.Column="3" Grid.Row="0"/>
+        <ScrollViewer VerticalScrollBarVisibility="Visible" Grid.Row="1">
+            <StackPanel x:Name="StackPamel01" Grid.Row="1" Grid.Column="0" Background="#b2f">
+                <Button x:Name="StackButton02" Content="Button" Background="#baf"/>
+                <Button x:Name="StackButton03" Content="Button" Background="#b9f"/>
+                <Button x:Name="StackButton04" Content="Button" Background="#b8f"/>
+                <Button x:Name="StackButton05" Content="Button" Background="#b7f"/>
+                <RichTextBox/>
+                <TextBox Text="Enter plain text"/>
+                <Label Content="Label"/>
+                <TextBox Text="Enter text"/>      
+                <Button x:Name="StackButton06" Content="Button" Background="#baf"/>
+                <Button x:Name="StackButton07" Content="Button" Background="#b9f"/>
+                <Button x:Name="StackButton08" Content="Button" Background="#b8f"/>
+                <Button x:Name="StackButton09" Content="Button" Background="#b7f"/>
+                <RichTextBox/>
+                <TextBox Text="Enter plain text"/>
+                <Label Content="Label"/>
+                <TextBox Text="Enter text"/>
+            </StackPanel>
+        </ScrollViewer>
+       
+        <DockPanel x:Name="DockPanel01" Grid.Row="1" Grid.Column="1" Background="#b9f">
+            <Button x:Name="dockButton01" Background="#a9f" DockPanel.Dock="Top" Content="T"/>
+            <Button x:Name="dockButton02" Background="#a9f" DockPanel.Dock="Left" Content="L"/>
+            <Button x:Name="dockButton03" Background="#a9f" DockPanel.Dock="Right" Content="R"/>
+            <Button x:Name="dockButton04" Background="#a9f" DockPanel.Dock="Bottom" Content="R"/>
+            <Button x:Name="dockButton05" Background="#a9f"  Content="C"/>
+        </DockPanel>
+        
+        <WrapPanel x:Name="WrapPanel01" Grid.Row="1" Grid.Column="2" Background="#bFF">
+            <Button x:Name="WrapButton02" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton03" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton04" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton05" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton06" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton07" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton08" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton09" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton10" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton11" Width="20" Height="20" Background="#cff" Margin="20"/>
+            <Button x:Name="WrapButton12" Width="20" Height="20" Background="#cff" Margin="20"/>
+        </WrapPanel>
+
+        <TabControl Grid.Row="1" Grid.Column="3" Background="#5ff">
+            <TabItem x:Name="TabPanel01" Grid.Row="1" Grid.Column="3" Background="#7ff" Header="Tab1">
+                <Label Content="label1"/>
+            </TabItem>
+            <TabItem x:Name="TabPanel02" Grid.Row="1" Grid.Column="3" Background="#6ff" Header="Tab2">
+                <Label Content="label2"/>
+            </TabItem>
+            <TabItem x:Name="TabPanel03" Grid.Row="1" Grid.Column="3" Background="#5ff" Header="Tab3">
+                <Label Content="label3"/>
+            </TabItem>
+
+            
+        </TabControl>
+        
+    </Grid>
+</Window>

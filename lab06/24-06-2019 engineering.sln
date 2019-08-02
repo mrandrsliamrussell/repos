@@ -139,9 +139,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab65 serialise to json", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab66 serialize binary", "lab66 serialize binary\lab66 serialize binary.csproj", "{D3DBAD61-0167-48DE-A1A0-43D7265858B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab67 XML", "lab67 XML\lab67 XML.csproj", "{A04E12D4-30C2-461C-B9AE-EEB3A5F76B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab67 XML", "lab67 XML\lab67 XML.csproj", "{A04E12D4-30C2-461C-B9AE-EEB3A5F76B35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab68 SQL CRUD app", "lab68 SQL CRUD app\lab68 SQL CRUD app.csproj", "{BBEABE3C-DFB0-4B36-8907-4642865CFB3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab68 SQL CRUD app", "lab68 SQL CRUD app\lab68 SQL CRUD app.csproj", "{BBEABE3C-DFB0-4B36-8907-4642865CFB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab69 XML from northwind", "lab69 XML from northwind\lab69 XML from northwind.csproj", "{1726FD01-25C7-4032-9362-806D8FD4538E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -429,6 +431,10 @@ Global
 		{BBEABE3C-DFB0-4B36-8907-4642865CFB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBEABE3C-DFB0-4B36-8907-4642865CFB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBEABE3C-DFB0-4B36-8907-4642865CFB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1726FD01-25C7-4032-9362-806D8FD4538E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1726FD01-25C7-4032-9362-806D8FD4538E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1726FD01-25C7-4032-9362-806D8FD4538E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1726FD01-25C7-4032-9362-806D8FD4538E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

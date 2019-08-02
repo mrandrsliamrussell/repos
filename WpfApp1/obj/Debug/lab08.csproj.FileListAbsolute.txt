@@ -1,0 +1,15 @@
+C:\Users\LRussell\source\repos\lab06\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\LRussell\source\repos\lab06\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\LRussell\source\repos\lab06\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\lab08.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\App.g.cs
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\lab08.csproj.GenerateResource.cache
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\lab08.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\LRussell\source\repos\lab06\WpfApp1\obj\Debug\WpfApp1.pdb

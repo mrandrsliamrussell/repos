@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\obj\Debug\netcoreapp2.2\lab49 reference value type.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\obj\Debug\netcoreapp2.2\lab49 reference value type.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\obj\Debug\netcoreapp2.2\lab49 reference value type.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\obj\Debug\netcoreapp2.2\lab49 reference value type.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\bin\Debug\netcoreapp2.2\lab49 reference value type.deps.json
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\bin\Debug\netcoreapp2.2\lab49 reference value type.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\bin\Debug\netcoreapp2.2\lab49 reference value type.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\bin\Debug\netcoreapp2.2\lab49 reference value type.dll
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\bin\Debug\netcoreapp2.2\lab49 reference value type.pdb
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\obj\Debug\netcoreapp2.2\lab49 reference value type.dll
+C:\Users\LRussell\source\repos\lab06\lab49 reference value type\obj\Debug\netcoreapp2.2\lab49 reference value type.pdb

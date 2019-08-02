@@ -1,0 +1,12 @@
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\bin\Debug\lab51 database stuff.exe.config
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\bin\Debug\lab51 database stuff.exe
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\bin\Debug\lab51 database stuff.pdb
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\bin\Debug\EntityFramework.dll
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\bin\Debug\EntityFramework.xml
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\obj\Debug\lab51 database stuff.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\obj\Debug\lab51 database stuff.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\obj\Debug\lab51 database stuff.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\obj\Debug\lab51 database stuff.exe
+C:\Users\LRussell\source\repos\lab06\lab51 database stuff\obj\Debug\lab51 database stuff.pdb

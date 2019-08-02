@@ -1,7 +1,0 @@
-C:\Users\LRussell\source\repos\lab06\lab59 debugging\bin\Debug\lab59 debugging.exe.config
-C:\Users\LRussell\source\repos\lab06\lab59 debugging\bin\Debug\lab59 debugging.exe
-C:\Users\LRussell\source\repos\lab06\lab59 debugging\bin\Debug\lab59 debugging.pdb
-C:\Users\LRussell\source\repos\lab06\lab59 debugging\obj\Debug\lab59 debugging.csprojAssemblyReference.cache
-C:\Users\LRussell\source\repos\lab06\lab59 debugging\obj\Debug\lab59 debugging.csproj.CoreCompileInputs.cache
-C:\Users\LRussell\source\repos\lab06\lab59 debugging\obj\Debug\lab59 debugging.exe
-C:\Users\LRussell\source\repos\lab06\lab59 debugging\obj\Debug\lab59 debugging.pdb

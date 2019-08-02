@@ -1,0 +1,12 @@
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\obj\Debug\lab52 LINQ simple.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\obj\Debug\lab52 LINQ simple.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\bin\Debug\lab52 LINQ simple.exe.config
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\bin\Debug\lab52 LINQ simple.exe
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\bin\Debug\lab52 LINQ simple.pdb
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\bin\Debug\EntityFramework.dll
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\bin\Debug\EntityFramework.xml
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\obj\Debug\lab52 LINQ simple.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\obj\Debug\lab52 LINQ simple.exe
+C:\Users\LRussell\source\repos\lab06\lab52 LINQ simple\obj\Debug\lab52 LINQ simple.pdb

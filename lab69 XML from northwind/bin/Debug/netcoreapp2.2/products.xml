@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <ProductID>Chai</ProductID>
+    <ProductName>1</ProductName>
+    <CategoryID>1</CategoryID>
+    <UnitPrice>18.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>Chang</ProductID>
+    <ProductName>2</ProductName>
+    <CategoryID>1</CategoryID>
+    <UnitPrice>19.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>Aniseed Syrup</ProductID>
+    <ProductName>3</ProductName>
+    <CategoryID>2</CategoryID>
+    <UnitPrice>10.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>Chef Anton's Cajun Seasoning</ProductID>
+    <ProductName>4</ProductName>
+    <CategoryID>2</CategoryID>
+    <UnitPrice>22.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>Chef Anton's Gumbo Mix</ProductID>
+    <ProductName>5</ProductName>
+    <CategoryID>2</CategoryID>
+    <UnitPrice>21.3500</UnitPrice>
+  </Product>
+</Products>

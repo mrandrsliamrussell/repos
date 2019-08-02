@@ -1,0 +1,360 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\Tests_NUNIT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LRussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj",
+        "projectName": "lab22 first test",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj",
+        "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LRussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj",
+        "projectName": "snap lab 5 console core",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj",
+        "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LRussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "DocX": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            },
+            "Microsoft.Office.Interop.Word": {
+              "target": "Package",
+              "version": "[15.0.4797.1003, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj",
+        "projectName": "snap lab 6",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj",
+        "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LRussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj",
+        "projectName": "snaplab18 interfaces",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj",
+        "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LRussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\Tests_NUNIT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\Tests_NUNIT.csproj",
+        "projectName": "Tests_NUNIT",
+        "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\Tests_NUNIT.csproj",
+        "packagesPath": "C:\\Users\\LRussell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\Tests_NUNIT\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LRussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj": {
+                "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab 27 more tests\\Tests.csproj"
+              },
+              "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj": {
+                "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\lab22 first test\\lab22 first test.csproj"
+              },
+              "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj": {
+                "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 5 console core\\snap lab 5 console core.csproj"
+              },
+              "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj": {
+                "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snap lab 6\\snap lab 6.csproj"
+              },
+              "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj": {
+                "projectPath": "C:\\Users\\LRussell\\source\\repos\\lab06\\snaplab18 interfaces\\snaplab18 interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

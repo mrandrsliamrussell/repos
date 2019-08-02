@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\lab25 strings\bin\Debug\netcoreapp2.1\lab25 strings.deps.json
+C:\Users\LRussell\source\repos\lab06\lab25 strings\bin\Debug\netcoreapp2.1\lab25 strings.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab25 strings\bin\Debug\netcoreapp2.1\lab25 strings.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab25 strings\bin\Debug\netcoreapp2.1\lab25 strings.dll
+C:\Users\LRussell\source\repos\lab06\lab25 strings\bin\Debug\netcoreapp2.1\lab25 strings.pdb
+C:\Users\LRussell\source\repos\lab06\lab25 strings\obj\Debug\netcoreapp2.1\lab25 strings.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab25 strings\obj\Debug\netcoreapp2.1\lab25 strings.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab25 strings\obj\Debug\netcoreapp2.1\lab25 strings.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab25 strings\obj\Debug\netcoreapp2.1\lab25 strings.dll
+C:\Users\LRussell\source\repos\lab06\lab25 strings\obj\Debug\netcoreapp2.1\lab25 strings.pdb
+C:\Users\LRussell\source\repos\lab06\lab25 strings\obj\Debug\netcoreapp2.1\lab25 strings.csprojAssemblyReference.cache

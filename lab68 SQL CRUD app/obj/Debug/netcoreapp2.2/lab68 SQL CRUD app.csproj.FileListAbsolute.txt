@@ -1,0 +1,11 @@
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\obj\Debug\netcoreapp2.2\lab68 SQL CRUD app.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\obj\Debug\netcoreapp2.2\lab68 SQL CRUD app.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\obj\Debug\netcoreapp2.2\lab68 SQL CRUD app.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\obj\Debug\netcoreapp2.2\lab68 SQL CRUD app.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\bin\Debug\netcoreapp2.2\lab68 SQL CRUD app.deps.json
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\bin\Debug\netcoreapp2.2\lab68 SQL CRUD app.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\bin\Debug\netcoreapp2.2\lab68 SQL CRUD app.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\bin\Debug\netcoreapp2.2\lab68 SQL CRUD app.dll
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\bin\Debug\netcoreapp2.2\lab68 SQL CRUD app.pdb
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\obj\Debug\netcoreapp2.2\lab68 SQL CRUD app.dll
+C:\Users\LRussell\source\repos\lab06\lab68 SQL CRUD app\obj\Debug\netcoreapp2.2\lab68 SQL CRUD app.pdb
