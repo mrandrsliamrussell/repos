@@ -9,3 +9,9 @@ C:\Users\LRussell\source\repos\lab06\lab62 streaming\obj\Debug\netcoreapp2.2\lab
 C:\Users\LRussell\source\repos\lab06\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.dll
 C:\Users\LRussell\source\repos\lab06\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.pdb
 C:\Users\LRussell\source\repos\lab06\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.dll
+C:\Users\LRussell\source\repos\lab62 streaming\obj\Debug\netcoreapp2.2\lab62 streaming.pdb

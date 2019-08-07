@@ -143,7 +143,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab67 XML", "lab67 XML\lab6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab68 SQL CRUD app", "lab68 SQL CRUD app\lab68 SQL CRUD app.csproj", "{BBEABE3C-DFB0-4B36-8907-4642865CFB3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab69 XML from northwind", "lab69 XML from northwind\lab69 XML from northwind.csproj", "{1726FD01-25C7-4032-9362-806D8FD4538E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab69 XML from northwind", "lab69 XML from northwind\lab69 XML from northwind.csproj", "{1726FD01-25C7-4032-9362-806D8FD4538E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snap Lab 20 sql from xml", "Snap Lab 20 sql from xml\Snap Lab 20 sql from xml.csproj", "{74AEA04D-D3D6-40CA-8F5F-9DECD4145654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab70 asp framework website", "lab70 asp framework website\lab70 asp framework website.csproj", "{FBED8453-FB89-482D-90B8-40F8A4AB706F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab71 MVC framework northwind", "lab71 MVC framework northwind\lab71 MVC framework northwind.csproj", "{978C09CD-9950-408A-BF77-16DE5CDC526D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -435,6 +441,18 @@ Global
 		{1726FD01-25C7-4032-9362-806D8FD4538E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1726FD01-25C7-4032-9362-806D8FD4538E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1726FD01-25C7-4032-9362-806D8FD4538E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AEA04D-D3D6-40CA-8F5F-9DECD4145654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AEA04D-D3D6-40CA-8F5F-9DECD4145654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AEA04D-D3D6-40CA-8F5F-9DECD4145654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AEA04D-D3D6-40CA-8F5F-9DECD4145654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBED8453-FB89-482D-90B8-40F8A4AB706F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBED8453-FB89-482D-90B8-40F8A4AB706F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBED8453-FB89-482D-90B8-40F8A4AB706F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBED8453-FB89-482D-90B8-40F8A4AB706F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978C09CD-9950-408A-BF77-16DE5CDC526D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978C09CD-9950-408A-BF77-16DE5CDC526D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978C09CD-9950-408A-BF77-16DE5CDC526D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978C09CD-9950-408A-BF77-16DE5CDC526D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

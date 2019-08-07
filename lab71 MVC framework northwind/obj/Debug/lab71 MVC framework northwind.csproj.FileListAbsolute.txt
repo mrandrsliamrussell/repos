@@ -1,0 +1,80 @@
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\lab71 MVC framework northwind.dll.config
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\lab71 MVC framework northwind.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\lab71 MVC framework northwind.pdb
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\csc.exe
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\csc.exe.config
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\csc.rsp
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\csi.exe
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\csi.exe.config
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\csi.rsp
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.AppContext.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Console.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.IO.Compression.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Security.Claims.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.ValueTuple.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\vbc.exe
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\vbc.exe.config
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\vbc.rsp
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\VBCSCompiler.exe
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\Antlr3.Runtime.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\Newtonsoft.Json.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.Helpers.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.Mvc.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.Optimization.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.Razor.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.WebPages.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.WebPages.Razor.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\WebGrease.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.Helpers.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.Mvc.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.Optimization.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.Razor.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.WebPages.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\System.Web.WebPages.Razor.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\Newtonsoft.Json.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\Antlr3.Runtime.pdb
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\obj\Debug\lab71 MVC framework northwind.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\obj\Debug\lab71 MVC framework northwind.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\obj\Debug\lab71 MVC framework northwind.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\obj\Debug\lab71 MVC framework northwind.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\obj\Debug\lab71 MVC framework northwind.pdb
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\EntityFramework.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\EntityFramework.SqlServer.dll
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\EntityFramework.xml
+C:\Users\LRussell\source\repos\lab71 MVC framework northwind\bin\EntityFramework.SqlServer.xml

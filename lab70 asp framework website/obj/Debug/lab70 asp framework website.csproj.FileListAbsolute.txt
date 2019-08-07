@@ -1,0 +1,71 @@
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\lab70 asp framework website.dll.config
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\lab70 asp framework website.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\lab70 asp framework website.pdb
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\csc.exe
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\csc.exe.config
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\csc.rsp
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\csi.exe
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\csi.exe.config
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\csi.rsp
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.AppContext.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Console.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.IO.Compression.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Security.Claims.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.ValueTuple.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\vbc.exe
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\vbc.exe.config
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\vbc.rsp
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\VBCSCompiler.exe
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Antlr3.Runtime.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Newtonsoft.Json.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\System.Web.Optimization.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\WebGrease.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\System.Web.Optimization.xml
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Newtonsoft.Json.xml
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Antlr3.Runtime.pdb
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\LRussell\source\repos\lab70 asp framework website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LRussell\source\repos\lab70 asp framework website\obj\Debug\lab70 asp framework website.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab70 asp framework website\obj\Debug\lab70 asp framework website.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab70 asp framework website\obj\Debug\lab70 asp framework website.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab70 asp framework website\obj\Debug\lab70 asp framework website.dll
+C:\Users\LRussell\source\repos\lab70 asp framework website\obj\Debug\lab70 asp framework website.pdb

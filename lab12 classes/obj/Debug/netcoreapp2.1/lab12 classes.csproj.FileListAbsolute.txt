@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab12 classes\bin\Debug\netcoreapp2.1\lab12
 C:\Users\LRussell\source\repos\lab06\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.dll
 C:\Users\LRussell\source\repos\lab06\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.pdb
 C:\Users\LRussell\source\repos\lab06\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab12 classes\bin\Debug\netcoreapp2.1\lab12 classes.deps.json
+C:\Users\LRussell\source\repos\lab12 classes\bin\Debug\netcoreapp2.1\lab12 classes.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab12 classes\bin\Debug\netcoreapp2.1\lab12 classes.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab12 classes\bin\Debug\netcoreapp2.1\lab12 classes.dll
+C:\Users\LRussell\source\repos\lab12 classes\bin\Debug\netcoreapp2.1\lab12 classes.pdb
+C:\Users\LRussell\source\repos\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.dll
+C:\Users\LRussell\source\repos\lab12 classes\obj\Debug\netcoreapp2.1\lab12 classes.pdb

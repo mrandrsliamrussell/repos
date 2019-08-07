@@ -10,3 +10,15 @@ C:\Users\LRussell\source\repos\lab06\snap lab 4 sql test\obj\Debug\snap lab 4 sq
 C:\Users\LRussell\source\repos\lab06\snap lab 4 sql test\obj\Debug\snap lab 4 sql test.csproj.CopyComplete
 C:\Users\LRussell\source\repos\lab06\snap lab 4 sql test\obj\Debug\snap lab 4 sql test.exe
 C:\Users\LRussell\source\repos\lab06\snap lab 4 sql test\obj\Debug\snap lab 4 sql test.pdb
+C:\Users\LRussell\source\repos\snap lab 4 sql test\bin\Debug\snap lab 4 sql test.exe.config
+C:\Users\LRussell\source\repos\snap lab 4 sql test\bin\Debug\snap lab 4 sql test.exe
+C:\Users\LRussell\source\repos\snap lab 4 sql test\bin\Debug\snap lab 4 sql test.pdb
+C:\Users\LRussell\source\repos\snap lab 4 sql test\bin\Debug\EntityFramework.dll
+C:\Users\LRussell\source\repos\snap lab 4 sql test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LRussell\source\repos\snap lab 4 sql test\bin\Debug\EntityFramework.xml
+C:\Users\LRussell\source\repos\snap lab 4 sql test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LRussell\source\repos\snap lab 4 sql test\obj\Debug\snap lab 4 sql test.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\snap lab 4 sql test\obj\Debug\snap lab 4 sql test.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\snap lab 4 sql test\obj\Debug\snap lab 4 sql test.csproj.CopyComplete
+C:\Users\LRussell\source\repos\snap lab 4 sql test\obj\Debug\snap lab 4 sql test.exe
+C:\Users\LRussell\source\repos\snap lab 4 sql test\obj\Debug\snap lab 4 sql test.pdb

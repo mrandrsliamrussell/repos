@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 En
 C:\Users\LRussell\source\repos\lab06\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.dll
 C:\Users\LRussell\source\repos\lab06\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.pdb
 C:\Users\LRussell\source\repos\lab06\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab28 Enum\bin\Debug\netcoreapp2.1\lab28 Enum.deps.json
+C:\Users\LRussell\source\repos\lab28 Enum\bin\Debug\netcoreapp2.1\lab28 Enum.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab28 Enum\bin\Debug\netcoreapp2.1\lab28 Enum.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab28 Enum\bin\Debug\netcoreapp2.1\lab28 Enum.dll
+C:\Users\LRussell\source\repos\lab28 Enum\bin\Debug\netcoreapp2.1\lab28 Enum.pdb
+C:\Users\LRussell\source\repos\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.dll
+C:\Users\LRussell\source\repos\lab28 Enum\obj\Debug\netcoreapp2.1\lab28 Enum.pdb

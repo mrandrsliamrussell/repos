@@ -15,3 +15,20 @@ C:\Users\LRussell\source\repos\lab06\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_
 C:\Users\LRussell\source\repos\lab06\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.csproj.CopyComplete
 C:\Users\LRussell\source\repos\lab06\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.dll
 C:\Users\LRussell\source\repos\lab06\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.pdb
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\Tests_MSTEST.deps.json
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\Tests_MSTEST.runtimeconfig.json
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\Tests_MSTEST.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\Tests_MSTEST.dll
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\Tests_MSTEST.pdb
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\lab22 first test.dll
+C:\Users\LRussell\source\repos\Tests MSTEST\bin\Debug\netcoreapp2.1\lab22 first test.pdb
+C:\Users\LRussell\source\repos\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.csproj.CopyComplete
+C:\Users\LRussell\source\repos\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.dll
+C:\Users\LRussell\source\repos\Tests MSTEST\obj\Debug\netcoreapp2.1\Tests_MSTEST.pdb

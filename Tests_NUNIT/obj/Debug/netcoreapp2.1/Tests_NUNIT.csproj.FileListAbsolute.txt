@@ -22,3 +22,5 @@ C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\snap la
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\snap lab 5 console core.pdb
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\snap lab 6.dll
 C:\Users\LRussell\source\repos\lab06\Tests_NUNIT\bin\Debug\netcoreapp2.1\snap lab 6.pdb
+C:\Users\LRussell\source\repos\Tests_NUNIT\obj\Debug\netcoreapp2.1\Tests_NUNIT.dll
+C:\Users\LRussell\source\repos\Tests_NUNIT\obj\Debug\netcoreapp2.1\Tests_NUNIT.pdb

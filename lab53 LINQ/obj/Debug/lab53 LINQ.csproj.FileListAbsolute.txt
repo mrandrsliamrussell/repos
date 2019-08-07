@@ -10,3 +10,15 @@ C:\Users\LRussell\source\repos\lab06\lab53 LINQ\obj\Debug\lab53 LINQ.csproj.Core
 C:\Users\LRussell\source\repos\lab06\lab53 LINQ\obj\Debug\lab53 LINQ.csproj.CopyComplete
 C:\Users\LRussell\source\repos\lab06\lab53 LINQ\obj\Debug\lab53 LINQ.exe
 C:\Users\LRussell\source\repos\lab06\lab53 LINQ\obj\Debug\lab53 LINQ.pdb
+C:\Users\LRussell\source\repos\lab53 LINQ\bin\Debug\lab53 LINQ.exe.config
+C:\Users\LRussell\source\repos\lab53 LINQ\bin\Debug\lab53 LINQ.exe
+C:\Users\LRussell\source\repos\lab53 LINQ\bin\Debug\lab53 LINQ.pdb
+C:\Users\LRussell\source\repos\lab53 LINQ\bin\Debug\EntityFramework.dll
+C:\Users\LRussell\source\repos\lab53 LINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LRussell\source\repos\lab53 LINQ\bin\Debug\EntityFramework.xml
+C:\Users\LRussell\source\repos\lab53 LINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LRussell\source\repos\lab53 LINQ\obj\Debug\lab53 LINQ.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab53 LINQ\obj\Debug\lab53 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab53 LINQ\obj\Debug\lab53 LINQ.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab53 LINQ\obj\Debug\lab53 LINQ.exe
+C:\Users\LRussell\source\repos\lab53 LINQ\obj\Debug\lab53 LINQ.pdb

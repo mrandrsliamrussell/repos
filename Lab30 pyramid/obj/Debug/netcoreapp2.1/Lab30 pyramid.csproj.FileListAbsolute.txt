@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30
 C:\Users\LRussell\source\repos\lab06\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.dll
 C:\Users\LRussell\source\repos\lab06\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.pdb
 C:\Users\LRussell\source\repos\lab06\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\Lab30 pyramid\bin\Debug\netcoreapp2.1\Lab30 pyramid.deps.json
+C:\Users\LRussell\source\repos\Lab30 pyramid\bin\Debug\netcoreapp2.1\Lab30 pyramid.runtimeconfig.json
+C:\Users\LRussell\source\repos\Lab30 pyramid\bin\Debug\netcoreapp2.1\Lab30 pyramid.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\Lab30 pyramid\bin\Debug\netcoreapp2.1\Lab30 pyramid.dll
+C:\Users\LRussell\source\repos\Lab30 pyramid\bin\Debug\netcoreapp2.1\Lab30 pyramid.pdb
+C:\Users\LRussell\source\repos\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.dll
+C:\Users\LRussell\source\repos\Lab30 pyramid\obj\Debug\netcoreapp2.1\Lab30 pyramid.pdb

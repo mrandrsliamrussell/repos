@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab 27 more tests\bin\Debug\netcoreapp2.1\T
 C:\Users\LRussell\source\repos\lab06\lab 27 more tests\bin\Debug\netcoreapp2.1\Tests.pdb
 C:\Users\LRussell\source\repos\lab06\lab 27 more tests\obj\Debug\netcoreapp2.1\Tests.dll
 C:\Users\LRussell\source\repos\lab06\lab 27 more tests\obj\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\LRussell\source\repos\lab 27 more tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\LRussell\source\repos\lab 27 more tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab 27 more tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab 27 more tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\LRussell\source\repos\lab 27 more tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\LRussell\source\repos\lab 27 more tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab 27 more tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab 27 more tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab 27 more tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab 27 more tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\LRussell\source\repos\lab 27 more tests\obj\Debug\netcoreapp2.1\Tests.pdb

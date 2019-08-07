@@ -1,0 +1,19 @@
+﻿@model  MVC_core_entityToDoList_01.Models.lists
+@{
+    ViewData["Title"] = "index";
+}
+
+<h1>index</h1>
+<ul>
+    @foreach (var item in Model.stringList)
+    {
+        <li>Item is<span style="color:darkred" id="span01">@item</span></li>
+    }
+
+    @for (int i = 0; i < 2; i++)
+    {
+        <li> number is @Model.intList[i]</li>
+    }
+
+
+</ul>

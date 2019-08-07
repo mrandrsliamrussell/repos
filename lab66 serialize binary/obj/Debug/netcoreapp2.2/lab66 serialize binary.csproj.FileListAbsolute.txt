@@ -8,3 +8,14 @@ C:\Users\LRussell\source\repos\lab06\lab66 serialize binary\bin\Debug\netcoreapp
 C:\Users\LRussell\source\repos\lab06\lab66 serialize binary\bin\Debug\netcoreapp2.2\lab66 serialize binary.pdb
 C:\Users\LRussell\source\repos\lab06\lab66 serialize binary\obj\Debug\netcoreapp2.2\lab66 serialize binary.dll
 C:\Users\LRussell\source\repos\lab06\lab66 serialize binary\obj\Debug\netcoreapp2.2\lab66 serialize binary.pdb
+C:\Users\LRussell\source\repos\lab66 serialize binary\bin\Debug\netcoreapp2.2\lab66 serialize binary.deps.json
+C:\Users\LRussell\source\repos\lab66 serialize binary\bin\Debug\netcoreapp2.2\lab66 serialize binary.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab66 serialize binary\bin\Debug\netcoreapp2.2\lab66 serialize binary.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab66 serialize binary\bin\Debug\netcoreapp2.2\lab66 serialize binary.dll
+C:\Users\LRussell\source\repos\lab66 serialize binary\bin\Debug\netcoreapp2.2\lab66 serialize binary.pdb
+C:\Users\LRussell\source\repos\lab66 serialize binary\obj\Debug\netcoreapp2.2\lab66 serialize binary.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab66 serialize binary\obj\Debug\netcoreapp2.2\lab66 serialize binary.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab66 serialize binary\obj\Debug\netcoreapp2.2\lab66 serialize binary.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab66 serialize binary\obj\Debug\netcoreapp2.2\lab66 serialize binary.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab66 serialize binary\obj\Debug\netcoreapp2.2\lab66 serialize binary.dll
+C:\Users\LRussell\source\repos\lab66 serialize binary\obj\Debug\netcoreapp2.2\lab66 serialize binary.pdb

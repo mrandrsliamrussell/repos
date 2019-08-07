@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 
 C:\Users\LRussell\source\repos\lab06\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.dll
 C:\Users\LRussell\source\repos\lab06\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.pdb
+C:\Users\LRussell\source\repos\lab32 3 cats\bin\Debug\netcoreapp2.1\lab32 3 cats.deps.json
+C:\Users\LRussell\source\repos\lab32 3 cats\bin\Debug\netcoreapp2.1\lab32 3 cats.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab32 3 cats\bin\Debug\netcoreapp2.1\lab32 3 cats.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab32 3 cats\bin\Debug\netcoreapp2.1\lab32 3 cats.dll
+C:\Users\LRussell\source\repos\lab32 3 cats\bin\Debug\netcoreapp2.1\lab32 3 cats.pdb
+C:\Users\LRussell\source\repos\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.dll
+C:\Users\LRussell\source\repos\lab32 3 cats\obj\Debug\netcoreapp2.1\lab32 3 cats.pdb

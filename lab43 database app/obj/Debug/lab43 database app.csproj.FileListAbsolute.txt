@@ -19,3 +19,24 @@ C:\Users\LRussell\source\repos\lab06\lab43 database app\obj\Debug\lab43 database
 C:\Users\LRussell\source\repos\lab06\lab43 database app\obj\Debug\lab43 database app.csproj.CopyComplete
 C:\Users\LRussell\source\repos\lab06\lab43 database app\obj\Debug\lab43 database app.exe
 C:\Users\LRussell\source\repos\lab06\lab43 database app\obj\Debug\lab43 database app.pdb
+C:\Users\LRussell\source\repos\lab43 database app\bin\Debug\lab43 database app.exe.config
+C:\Users\LRussell\source\repos\lab43 database app\bin\Debug\lab43 database app.exe
+C:\Users\LRussell\source\repos\lab43 database app\bin\Debug\lab43 database app.pdb
+C:\Users\LRussell\source\repos\lab43 database app\bin\Debug\EntityFramework.dll
+C:\Users\LRussell\source\repos\lab43 database app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LRussell\source\repos\lab43 database app\bin\Debug\EntityFramework.xml
+C:\Users\LRussell\source\repos\lab43 database app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\MainWindow.g.cs
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\App.g.cs
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app_Content.g.cs
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app_MarkupCompile.cache
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app_MarkupCompile.lref
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\MainWindow.baml
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app.g.resources
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43_database_app.Properties.Resources.resources
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app.csproj.GenerateResource.cache
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app.exe
+C:\Users\LRussell\source\repos\lab43 database app\obj\Debug\lab43 database app.pdb

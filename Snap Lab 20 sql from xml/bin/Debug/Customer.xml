@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <CustomerID>AROUT</CustomerID>
+    <CompanyName>Around the Horn</CompanyName>
+    <Address>Around the Horn</Address>
+    <City>London</City>
+  </Customer>
+  <Customer>
+    <CustomerID>BSBEV</CustomerID>
+    <CompanyName>B's Beverages</CompanyName>
+    <Address>B's Beverages</Address>
+    <City>London</City>
+  </Customer>
+  <Customer>
+    <CustomerID>CONSH</CustomerID>
+    <CompanyName>Consolidated Holdings</CompanyName>
+    <Address>Consolidated Holdings</Address>
+    <City>London</City>
+  </Customer>
+  <Customer>
+    <CustomerID>EASTC</CustomerID>
+    <CompanyName>Eastern Connection</CompanyName>
+    <Address>Eastern Connection</Address>
+    <City>London</City>
+  </Customer>
+  <Customer>
+    <CustomerID>NORTS</CustomerID>
+    <CompanyName>North/South</CompanyName>
+    <Address>North/South</Address>
+    <City>London</City>
+  </Customer>
+  <Customer>
+    <CustomerID>PARIS</CustomerID>
+    <CompanyName>Paris spécialités</CompanyName>
+    <Address>Paris spécialités</Address>
+    <City>Paris</City>
+  </Customer>
+  <Customer>
+    <CustomerID>pWdWW</CustomerID>
+    <CompanyName>crown jewels inc</CompanyName>
+    <Address>crown jewels inc</Address>
+    <City>London</City>
+  </Customer>
+  <Customer>
+    <CustomerID>SEVES</CustomerID>
+    <CompanyName>Seven Seas Imports</CompanyName>
+    <Address>Seven Seas Imports</Address>
+    <City>London</City>
+  </Customer>
+  <Customer>
+    <CustomerID>SPECD</CustomerID>
+    <CompanyName>Spécialités du monde</CompanyName>
+    <Address>Spécialités du monde</Address>
+    <City>Paris</City>
+  </Customer>
+  <Customer>
+    <CustomerID>WWdWW</CustomerID>
+    <CompanyName>crown jewels inc</CompanyName>
+    <Address>crown jewels inc</Address>
+    <City>London</City>
+  </Customer>
+</Customers>

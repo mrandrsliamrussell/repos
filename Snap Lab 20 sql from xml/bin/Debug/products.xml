@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <ProductID>2</ProductID>
+    <ProductName>Chang</ProductName>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitPrice>19.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>3</ProductID>
+    <ProductName>Aniseed Syrup</ProductName>
+    <QuantityPerUnit>12 - 550 ml bottles</QuantityPerUnit>
+    <UnitPrice>10.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>15</ProductID>
+    <ProductName>Genen Shouyu</ProductName>
+    <QuantityPerUnit>24 - 250 ml bottles</QuantityPerUnit>
+    <UnitPrice>15.5000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>34</ProductID>
+    <ProductName>Sasquatch Ale</ProductName>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitPrice>14.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>35</ProductID>
+    <ProductName>Steeleye Stout</ProductName>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitPrice>18.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>38</ProductID>
+    <ProductName>Côte de Blaye</ProductName>
+    <QuantityPerUnit>12 - 75 cl bottles</QuantityPerUnit>
+    <UnitPrice>263.5000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>39</ProductID>
+    <ProductName>Chartreuse verte</ProductName>
+    <QuantityPerUnit>750 cc per bottle</QuantityPerUnit>
+    <UnitPrice>18.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>61</ProductID>
+    <ProductName>Sirop d'érable</ProductName>
+    <QuantityPerUnit>24 - 500 ml bottles</QuantityPerUnit>
+    <UnitPrice>28.5000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>65</ProductID>
+    <ProductName>Louisiana Fiery Hot Pepper Sauce</ProductName>
+    <QuantityPerUnit>32 - 8 oz bottles</QuantityPerUnit>
+    <UnitPrice>21.0500</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>67</ProductID>
+    <ProductName>Laughing Lumberjack Lager</ProductName>
+    <QuantityPerUnit>24 - 12 oz bottles</QuantityPerUnit>
+    <UnitPrice>14.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>70</ProductID>
+    <ProductName>Outback Lager</ProductName>
+    <QuantityPerUnit>24 - 355 ml bottles</QuantityPerUnit>
+    <UnitPrice>15.0000</UnitPrice>
+  </Product>
+  <Product>
+    <ProductID>75</ProductID>
+    <ProductName>Rhönbräu Klosterbier</ProductName>
+    <QuantityPerUnit>24 - 0.5 l bottles</QuantityPerUnit>
+    <UnitPrice>7.7500</UnitPrice>
+  </Product>
+</Products>

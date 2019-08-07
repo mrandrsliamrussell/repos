@@ -1,0 +1,46 @@
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\bin\Debug\netcoreapp2.2\MVC core entityToDoList 01.deps.json
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\bin\Debug\netcoreapp2.2\MVC core entityToDoList 01.runtimeconfig.json
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\bin\Debug\netcoreapp2.2\MVC core entityToDoList 01.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\bin\Debug\netcoreapp2.2\MVC core entityToDoList 01.dll
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\bin\Debug\netcoreapp2.2\MVC core entityToDoList 01.pdb
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\bin\Debug\netcoreapp2.2\MVC core entityToDoList 01.Views.dll
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\bin\Debug\netcoreapp2.2\MVC core entityToDoList 01.Views.pdb
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.RazorAssemblyInfo.cache
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.RazorAssemblyInfo.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.TagHelpers.input.cache
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.TagHelpers.output.cache
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.RazorCoreGenerate.cache
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.RazorTargetAssemblyInfo.cache
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.RazorTargetAssemblyInfo.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.Views.pdb
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.dll
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.pdb
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\MVC core entityToDoList 01.csproj.CopyComplete
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\test\index.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks\Create.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks\Delete.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks\Details.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks\Edit.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks\Index.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks1\Create.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks1\Delete.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks1\Details.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks1\Edit.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Tasks1\Index.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Delete.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Details.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Edit.g.cshtml.cs
+C:\Users\LRussell\source\repos\StandaloneProjects\MVC core entityToDoList 01\MVC core entityToDoList 01\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs

@@ -1,0 +1,12 @@
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\bin\Debug\Snap Lab 20 sql from xml.exe.config
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\bin\Debug\Snap Lab 20 sql from xml.exe
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\bin\Debug\Snap Lab 20 sql from xml.pdb
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\bin\Debug\EntityFramework.dll
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\bin\Debug\EntityFramework.xml
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\obj\Debug\Snap Lab 20 sql from xml.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\obj\Debug\Snap Lab 20 sql from xml.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\obj\Debug\Snap Lab 20 sql from xml.csproj.CopyComplete
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\obj\Debug\Snap Lab 20 sql from xml.exe
+C:\Users\LRussell\source\repos\Snap Lab 20 sql from xml\obj\Debug\Snap Lab 20 sql from xml.pdb

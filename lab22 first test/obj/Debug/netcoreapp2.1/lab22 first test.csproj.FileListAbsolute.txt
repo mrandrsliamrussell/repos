@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab22 first test\obj\Debug\netcoreapp2.1\la
 C:\Users\LRussell\source\repos\lab06\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.dll
 C:\Users\LRussell\source\repos\lab06\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.pdb
+C:\Users\LRussell\source\repos\lab22 first test\bin\Debug\netcoreapp2.1\lab22 first test.deps.json
+C:\Users\LRussell\source\repos\lab22 first test\bin\Debug\netcoreapp2.1\lab22 first test.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab22 first test\bin\Debug\netcoreapp2.1\lab22 first test.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab22 first test\bin\Debug\netcoreapp2.1\lab22 first test.dll
+C:\Users\LRussell\source\repos\lab22 first test\bin\Debug\netcoreapp2.1\lab22 first test.pdb
+C:\Users\LRussell\source\repos\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.dll
+C:\Users\LRussell\source\repos\lab22 first test\obj\Debug\netcoreapp2.1\lab22 first test.pdb

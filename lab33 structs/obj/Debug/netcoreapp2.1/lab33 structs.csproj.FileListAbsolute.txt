@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab33 structs\obj\Debug\netcoreapp2.1\lab33
 C:\Users\LRussell\source\repos\lab06\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.dll
 C:\Users\LRussell\source\repos\lab06\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.pdb
+C:\Users\LRussell\source\repos\lab33 structs\bin\Debug\netcoreapp2.1\lab33 structs.deps.json
+C:\Users\LRussell\source\repos\lab33 structs\bin\Debug\netcoreapp2.1\lab33 structs.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab33 structs\bin\Debug\netcoreapp2.1\lab33 structs.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab33 structs\bin\Debug\netcoreapp2.1\lab33 structs.dll
+C:\Users\LRussell\source\repos\lab33 structs\bin\Debug\netcoreapp2.1\lab33 structs.pdb
+C:\Users\LRussell\source\repos\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.dll
+C:\Users\LRussell\source\repos\lab33 structs\obj\Debug\netcoreapp2.1\lab33 structs.pdb

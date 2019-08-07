@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab23_Methods\obj\Debug\netcoreapp2.1\lab23
 C:\Users\LRussell\source\repos\lab06\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.dll
 C:\Users\LRussell\source\repos\lab06\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.pdb
+C:\Users\LRussell\source\repos\lab23_Methods\bin\Debug\netcoreapp2.1\lab23_Methods.deps.json
+C:\Users\LRussell\source\repos\lab23_Methods\bin\Debug\netcoreapp2.1\lab23_Methods.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab23_Methods\bin\Debug\netcoreapp2.1\lab23_Methods.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab23_Methods\bin\Debug\netcoreapp2.1\lab23_Methods.dll
+C:\Users\LRussell\source\repos\lab23_Methods\bin\Debug\netcoreapp2.1\lab23_Methods.pdb
+C:\Users\LRussell\source\repos\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.dll
+C:\Users\LRussell\source\repos\lab23_Methods\obj\Debug\netcoreapp2.1\lab23_Methods.pdb

@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML
 C:\Users\LRussell\source\repos\lab06\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.dll
 C:\Users\LRussell\source\repos\lab06\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.pdb
 C:\Users\LRussell\source\repos\lab06\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab67 XML\bin\Debug\netcoreapp2.2\lab67 XML.deps.json
+C:\Users\LRussell\source\repos\lab67 XML\bin\Debug\netcoreapp2.2\lab67 XML.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab67 XML\bin\Debug\netcoreapp2.2\lab67 XML.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab67 XML\bin\Debug\netcoreapp2.2\lab67 XML.dll
+C:\Users\LRussell\source\repos\lab67 XML\bin\Debug\netcoreapp2.2\lab67 XML.pdb
+C:\Users\LRussell\source\repos\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.dll
+C:\Users\LRussell\source\repos\lab67 XML\obj\Debug\netcoreapp2.2\lab67 XML.pdb

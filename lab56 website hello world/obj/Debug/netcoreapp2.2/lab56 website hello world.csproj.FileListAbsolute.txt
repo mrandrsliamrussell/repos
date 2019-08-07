@@ -28,3 +28,24 @@ C:\Users\LRussell\source\repos\lab06\lab56 website hello world\obj\Debug\netcore
 C:\Users\LRussell\source\repos\lab06\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.dll
 C:\Users\LRussell\source\repos\lab06\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.pdb
 C:\Users\LRussell\source\repos\lab06\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.RazorAssemblyInfo.cache
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.RazorAssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.TagHelpers.input.cache
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.TagHelpers.output.cache
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.RazorCoreGenerate.cache
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.RazorTargetAssemblyInfo.cache
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.RazorTargetAssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.dll
+C:\Users\LRussell\source\repos\lab56 website hello world\obj\Debug\netcoreapp2.2\lab56 website hello world.pdb

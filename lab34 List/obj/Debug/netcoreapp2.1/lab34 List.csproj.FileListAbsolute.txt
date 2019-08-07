@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab34 List\obj\Debug\netcoreapp2.1\lab34 Li
 C:\Users\LRussell\source\repos\lab06\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.AssemblyInfo.cs
 C:\Users\LRussell\source\repos\lab06\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.dll
 C:\Users\LRussell\source\repos\lab06\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.pdb
+C:\Users\LRussell\source\repos\lab34 List\bin\Debug\netcoreapp2.1\lab34 List.deps.json
+C:\Users\LRussell\source\repos\lab34 List\bin\Debug\netcoreapp2.1\lab34 List.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab34 List\bin\Debug\netcoreapp2.1\lab34 List.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab34 List\bin\Debug\netcoreapp2.1\lab34 List.dll
+C:\Users\LRussell\source\repos\lab34 List\bin\Debug\netcoreapp2.1\lab34 List.pdb
+C:\Users\LRussell\source\repos\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.dll
+C:\Users\LRussell\source\repos\lab34 List\obj\Debug\netcoreapp2.1\lab34 List.pdb

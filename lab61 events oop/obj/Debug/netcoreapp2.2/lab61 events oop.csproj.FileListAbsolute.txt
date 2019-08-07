@@ -9,3 +9,14 @@ C:\Users\LRussell\source\repos\lab06\lab61 events oop\obj\Debug\netcoreapp2.2\la
 C:\Users\LRussell\source\repos\lab06\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.dll
 C:\Users\LRussell\source\repos\lab06\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.pdb
 C:\Users\LRussell\source\repos\lab06\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab61 events oop\bin\Debug\netcoreapp2.2\lab61 events oop.deps.json
+C:\Users\LRussell\source\repos\lab61 events oop\bin\Debug\netcoreapp2.2\lab61 events oop.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab61 events oop\bin\Debug\netcoreapp2.2\lab61 events oop.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab61 events oop\bin\Debug\netcoreapp2.2\lab61 events oop.dll
+C:\Users\LRussell\source\repos\lab61 events oop\bin\Debug\netcoreapp2.2\lab61 events oop.pdb
+C:\Users\LRussell\source\repos\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.dll
+C:\Users\LRussell\source\repos\lab61 events oop\obj\Debug\netcoreapp2.2\lab61 events oop.pdb
