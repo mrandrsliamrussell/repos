@@ -1,0 +1,40 @@
+﻿@page
+@model lab74_aspcore_website.Pages.northwindModel
+@{
+    ViewData["Title"] = "northwind";
+}
+
+<h1>northwind</h1>
+<p>hover over me please</p>
+
+<ul>
+   
+
+        
+
+    
+
+</ul>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">City</th>
+            <th scope="col">Company</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model.customers)
+        {
+            <tr>
+                
+                <th scope="row">@customer.CustomerID</th>
+                <td>@customer.ContactName</td>
+                <td>@customer.City</td>
+                <td>@customer.CompanyName</td>
+            </tr>
+        }
+        </tbody>
+</table>
+

@@ -1,0 +1,31 @@
+C:\Users\LRussell\source\repos\lab74 aspcore website\bin\Debug\netcoreapp2.2\lab74 aspcore website.deps.json
+C:\Users\LRussell\source\repos\lab74 aspcore website\bin\Debug\netcoreapp2.2\lab74 aspcore website.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab74 aspcore website\bin\Debug\netcoreapp2.2\lab74 aspcore website.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab74 aspcore website\bin\Debug\netcoreapp2.2\lab74 aspcore website.dll
+C:\Users\LRussell\source\repos\lab74 aspcore website\bin\Debug\netcoreapp2.2\lab74 aspcore website.pdb
+C:\Users\LRussell\source\repos\lab74 aspcore website\bin\Debug\netcoreapp2.2\lab74 aspcore website.Views.dll
+C:\Users\LRussell\source\repos\lab74 aspcore website\bin\Debug\netcoreapp2.2\lab74 aspcore website.Views.pdb
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.csprojAssemblyReference.cache
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.RazorAssemblyInfo.cache
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.RazorAssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.TagHelpers.input.cache
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.TagHelpers.output.cache
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.RazorCoreGenerate.cache
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.RazorTargetAssemblyInfo.cache
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.RazorTargetAssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.Views.pdb
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.dll
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.pdb
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\lab74 aspcore website.csproj.CopyComplete
+C:\Users\LRussell\source\repos\lab74 aspcore website\obj\Debug\netcoreapp2.2\Razor\Pages\northwind.g.cshtml.cs

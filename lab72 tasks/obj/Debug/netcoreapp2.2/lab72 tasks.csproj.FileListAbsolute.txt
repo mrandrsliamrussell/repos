@@ -1,0 +1,10 @@
+C:\Users\LRussell\source\repos\lab72 tasks\bin\Debug\netcoreapp2.2\lab72 tasks.deps.json
+C:\Users\LRussell\source\repos\lab72 tasks\bin\Debug\netcoreapp2.2\lab72 tasks.runtimeconfig.json
+C:\Users\LRussell\source\repos\lab72 tasks\bin\Debug\netcoreapp2.2\lab72 tasks.runtimeconfig.dev.json
+C:\Users\LRussell\source\repos\lab72 tasks\bin\Debug\netcoreapp2.2\lab72 tasks.dll
+C:\Users\LRussell\source\repos\lab72 tasks\bin\Debug\netcoreapp2.2\lab72 tasks.pdb
+C:\Users\LRussell\source\repos\lab72 tasks\obj\Debug\netcoreapp2.2\lab72 tasks.csproj.CoreCompileInputs.cache
+C:\Users\LRussell\source\repos\lab72 tasks\obj\Debug\netcoreapp2.2\lab72 tasks.AssemblyInfoInputs.cache
+C:\Users\LRussell\source\repos\lab72 tasks\obj\Debug\netcoreapp2.2\lab72 tasks.AssemblyInfo.cs
+C:\Users\LRussell\source\repos\lab72 tasks\obj\Debug\netcoreapp2.2\lab72 tasks.dll
+C:\Users\LRussell\source\repos\lab72 tasks\obj\Debug\netcoreapp2.2\lab72 tasks.pdb
